@@ -53,7 +53,7 @@
 		$('.page-gallery').imgfix({
 			scale: 1.1
 		});
-
+	$(document).ready(function($){
 		$('.page-gallery').magnificPopup({
 			type: 'image',
 			gallery: {
@@ -65,6 +65,7 @@
 				easing: 'ease-in-out',
 			}
 		});
+	});
 	}
 
 
