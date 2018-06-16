@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-12 col-sm-12">
-					<img src="assets/images/logo-dark.svg" class="logo" alt="">
+					<img src="assets/images/reshotel dark.png" style="width: 195px;" class="logo" alt="">
 					<div class="text">Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper phasellus semper.</div>
 				</div>
 				<div class="col-lg-2 col-md-4 col-sm-6 col-6">
@@ -59,6 +59,7 @@
 	<!-- Bootstrap -->
 	<script src="assets/js/popper.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
 
 	<!-- Plugins -->
 	<script src="assets/js/scrollreveal.min.js"></script>

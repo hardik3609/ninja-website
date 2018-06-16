@@ -360,6 +360,39 @@ global styles
   height: 185px;
 }
 
+.pbottom-70 .carousel-indicators .active {
+    background-color: #3dca3f;
+}
+.pbottom-70 .carousel-indicators{
+	bottom: -28px;
+	}
+.pbottom-70 .carousel-indicators li {
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 12px;
+    border-radius: 10px;
+    height: 12px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    background-color: rgb(146, 146, 146);
+}
+/**.pbottom-70 .team-item p:hover{
+	position: absolute;
+    z-index: 2;
+    top: 103px;
+    display: inline;
+    padding: 27px 15px;
+    overflow: hidden;
+    color: white;
+    font-weight: 600;
+}
+.pbottom-70 .team-item p{
+	display:none;
+}**/
+
 .mtop-70 {
   margin-top: 70px !important;
 }
@@ -1209,6 +1242,11 @@ home
 
 .team-item:hover .social {
   right: 0px;
+  
+}
+.team-item:hover p {
+  right: 0px;
+  
 }
 
 .team-item .header {
@@ -1268,20 +1306,38 @@ home
 }
 
 .team-item .social {
-  position: absolute;
-  right: -150px;
-  top: 77px;
-  overflow: hidden;
-  width: 150px;
-  height: 28px;
-  background: #fff;
-  text-align: center;
-  border-radius: 3px 0px 0px 3px;
-  -webkit-transition: all 0.3s ease 0s;
-  -moz-transition: all 0.3s ease 0s;
-  -o-transition: all 0.3s ease 0s;
-  transition: all 0.3s ease 0s;
-  z-index: 2;
+    position: absolute;
+    right: -150px;
+    top: 77px;
+    overflow: hidden;
+    width: 150px;
+    padding: 5px;
+    color: #13bf09;
+    font-weight: 700;
+    background: #fff;
+    text-align: center;
+    border-radius: 3px 0px 0px 3px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    z-index: 2;
+}
+.team-item p {
+    position: absolute;
+    right: -10000px;
+    color: white;
+    font-weight: 700;
+    top: 103px;
+    padding: 24px 16px;
+    overflow: hidden;
+    text-align: center;
+    border-radius: 3px 0px 0px 3px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    z-index: 2;
 }
 
 .team-item .social li {

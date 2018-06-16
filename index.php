@@ -95,7 +95,7 @@
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
 											<div class="icon">
-												<img src="assets/images/icons/apps/11.png" title="Booking Analytics" class="img-fluid" alt="">
+												<img src="assets/images/icons/apps/11.png" title="Booking Analytics	" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
@@ -117,14 +117,14 @@
 			<div class="row">
 				<!-- ***** Home About Start ***** -->
 				<div class="col-lg-5 col-md-12 col-sm-12 align-self-bottom">
+					
+					<div class="left-text">
+						<img src="assets/images/reshotel-loop.gif" title="Booking Analytics	" class="img-fluid" width="80%" alt="">
+					</div>
 					<div class="left-heading">
 						<h2 class="section-title">Start-to-end app development agency</h2>
 					</div>
-					<div class="left-text">
-						<p class="dark">Pellentesque posuere vestibulum lorem, ut efficitur erat tristique sed. Ut vitae tincidunt ante. </p>
-						<p>Donec vulputate urna sed rutrum venenatis. Cras consequat magna quis arcu elementum, quis congue risus volutpat. Praesent tortor nulla, ullamcorper.</p>
-					</div>
-					<a href="#" class="btn-primary-line">SERVICES</a>					
+					<!--a href="#" class="btn-primary-line">SERVICES</a-->					
 				</div>
 				<!-- ***** Home About End ***** -->
 
@@ -223,7 +223,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="center-heading">
-						<h2 class="section-title">Our Team</h2>
+						<h2 class="section-title">Screen Shoot</h2>
 					</div>
 				</div>
 				<div class="offset-lg-3 col-lg-6">
@@ -232,96 +232,144 @@
 					</div>					
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-					<div class="team-item">
-						<div class="header">
-							<div class="img">
-								<img src="assets/images/photos/team/1.jpg" alt="">
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class=""></li>
+					<li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
 							</div>
-							<div class="info">
-								<strong>Fletch Skinner</strong>
-								<span>Product Strategist</span>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
 							</div>
 						</div>
-						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
-						</div>
-						<ul class="social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#"><i class="fa fa-github"></i></a></li>
-						</ul>
 					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-					<div class="team-item">
-						<div class="header">
-							<div class="img">
-								<img src="assets/images/photos/team/2.jpg" alt="">
+					<div class="carousel-item">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
 							</div>
-							<div class="info">
-								<strong>Lance Bogrol</strong>
-								<span>Visual Designer</span>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate/Invaetory
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Rate / Invaetory
+									</h5>
+								</div>
 							</div>
 						</div>
-						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
-						</div>
-						<ul class="social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#"><i class="fa fa-github"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-					<div class="team-item">
-						<div class="header">
-							<div class="img">
-								<img src="assets/images/photos/team/3.jpg" alt="">
-							</div>
-							<div class="info">
-								<strong>Valentino Morose</strong>
-								<span>Android Developer</span>
-							</div>
-						</div>
-						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
-						</div>
-						<ul class="social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#"><i class="fa fa-github"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-					<div class="team-item">
-						<div class="header">
-							<div class="img">
-								<img src="assets/images/photos/team/4.jpg" alt="">
-							</div>
-							<div class="info">
-								<strong>Giles Posture</strong>
-								<span>iOS Developer</span>
-							</div>
-						</div>
-						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
-						</div>
-						<ul class="social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#"><i class="fa fa-github"></i></a></li>
-						</ul>
 					</div>
 				</div>
 			</div>
+			<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
 		</div>
 	</section>
 	<!-- ***** Our Team End ***** -->
