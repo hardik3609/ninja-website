@@ -23,6 +23,8 @@
 
 	<!-- Custom CSS -->
 	<link href="assets/css/style.css" rel="stylesheet" type="text/css">
+	
+	
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118135390-1"></script>
@@ -62,8 +64,8 @@
 						<!-- ***** Logo Start ***** -->
 						<a href="home.html" class="logo">
 							
-							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="light-logo img-responsive" alt="Arda ICO"/>
-							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="dark-logo img-responsive" alt="Arda ICO"/>
+							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="light-logo img-responsive" alt="reshotel ICO"/>
+							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="dark-logo img-responsive" alt="reshotel ICO"/>
 						</a>
 						<!-- ***** Logo End ***** -->
 

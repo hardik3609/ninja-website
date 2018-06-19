@@ -60,7 +60,33 @@
 	<script src="assets/js/popper.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/bootstrap.bundle.min.js"></script>
-
+	
+	<!--brand slider-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+	<script>			
+			$(document).ready(function(){
+			$('.customer-logos').slick({
+				slidesToShow: 6,
+				slidesToScroll: 1,
+				autoplay: true,
+				autoplaySpeed: 1500,
+				arrows: false,
+				dots: false,
+				pauseOnHover: false,
+				responsive: [{
+					breakpoint: 768,
+					settings: {
+						slidesToShow: 4
+					}
+				}, {
+					breakpoint: 520,
+					settings: {
+						slidesToShow: 3
+					}
+				}]
+			});
+		});
+	</script>
 	<!-- Plugins -->
 	<script src="assets/js/scrollreveal.min.js"></script>
 	<script src="assets/js/parallax.min.js"></script>

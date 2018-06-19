@@ -232,7 +232,7 @@
 					</div>					
 				</div>
 			</div>
-			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" >
 			
 				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class=""></li>
@@ -354,7 +354,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate / Invaetory
+										Rate/Invaetory
 									</h5>
 								</div>
 							</div>
@@ -363,13 +363,13 @@
 				</div>
 			</div>
 			<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-				</a>
-				<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-				</a>
+				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
 		</div>
 	</section>
 	<!-- ***** Our Team End ***** -->
@@ -409,6 +409,103 @@
 		</div>
 	</section>
 	<!-- ***** Counter Parallax End ***** -->
+	<!--Testimonial-->
+	<section class="section background pbottom-70">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="center-heading">
+						<h2 class="section-title">Testimonial</h2>
+					</div>
+				</div>
+				<div class="offset-lg-3 col-lg-6">
+					<div class="center-text">
+						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+					</div>					
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/1.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>Fletch Skinner</strong>
+								<span>Product Strategist</span>
+							</div>
+						</div>
+						<div class="body">
+							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+						</div>
+						<ul class="social">
+							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/2.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>Lance Bogrol</strong>
+								<span>Visual Designer</span>
+							</div>
+						</div>
+						<div class="body">
+							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+						</div>
+						<ul class="social">
+							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/3.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>Valentino Morose</strong>
+								<span>Android Developer</span>
+							</div>
+						</div>
+						<div class="body">
+							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+						</div>
+						<ul class="social">
+							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/4.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>Giles Posture</strong>
+								<span>iOS Developer</span>
+							</div>
+						</div>
+						<div class="body">
+							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+						</div>
+						<ul class="social">
+							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--//Testimonial-->
+	
 
 	<!-- ***** Blog Start ***** -->
 	<section class="section pbottom-70">
@@ -472,6 +569,140 @@
 		</div>
 	</section>
 	<!-- ***** Blog End ***** -->
+	<!-- ***** channel partner Start ***** -->
+	<section class="parallax ">
+		<div class="parallax-content">
+			<div class="container">
+				<div class="container">
+					<div class="brand-slider">
+						<div class="center-heading">
+							<h2 class="section-title-white">Our  Partners</h2>
+							<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						</div>
+					   <section class="customer-logos slider">
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
+						  <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
+					   </section>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</section>
+	<!-- *****channel partner  End ***** -->
+	<!-- ***** price start ***** -->
+	<section class="section pbottom-70">
+		<div class="container wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="center-heading">
+						<h2 class="section-title">App Price</h2>
+					</div>
+				</div>
+				<div class="offset-lg-3 col-lg-6">
+					<div class="center-text">
+						<p>Get start your business with our awesome pricing plan.</p>
+					</div>					
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-6">
+					<div class="pricetable">
+						<div class="pricetable_header">
+							<h3 class="heading">
+					  Free
+					</h3>
+							<span class="price_value"><span class="currency">₹</span>5<span class="mo">   /month</span></span>
+						</div>
+						<div class="pricecontent">
+							<ul>
+								<li>20GB Disk Space</li>
+								<li>30 Email Accounts</li>
+								<li>30GB Monthly Bandwidth</li>
+								<li>30 Domains</li>
+								<li>Unlimited Subdomains</li>
+							</ul>
+						</div>
+						<div class="price_btn">
+							<a href="#" class="btn-white-line">Buy Now</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="pricetable">
+						<div class="pricetable_header">
+							<h3 class="heading">
+					  Standard
+					</h3>
+							<span class="price_value"><span class="currency">₹</span>10<span class="mo">   /month</span></span>
+						</div>
+						<div class="pricecontent">
+							<ul>
+								<li>50GB Disk Space</li>
+								<li>50 Email Accounts</li>
+								<li>50GB Monthly Bandwidth</li>
+								<li>50 Domains</li>
+								<li>Unlimited Subdomains</li>
+							</ul>
+						</div>
+						<div class="price_btn">
+							<a href="#" class="btn-white-line">Buy Now</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="pricetable">
+						<div class="pricetable_header">
+							<h3 class="heading">
+					  Premium
+					</h3>
+							<span class="price_value"><span class="currency">₹</span>12<span class="mo">   /month</span></span>
+						</div>
+						<div class="pricecontent">
+							<ul>
+								<li>100GB Disk Space</li>
+								<li>100 Email Accounts</li>
+								<li>100GB Monthly Bandwidth</li>
+								<li>100 Domains</li>
+								<li>Unlimited Subdomains</li>
+							</ul>
+						</div>
+						<div class="price_btn">
+							<a href="#" class="btn-white-line">Buy Now</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="pricetable">
+						<div class="pricetable_header">
+							<h3 class="heading">
+					  Advance
+					</h3>
+							<span class="price_value"><span class="currency">₹</span>24<span class="mo">   /month</span></span>
+						</div>
+						<div class="pricecontent">
+							<ul>
+								<li>200GB Disk Space</li>
+								<li>200 Email Accounts</li>
+								<li>300GB Monthly Bandwidth</li>
+								<li>200 Domains</li>
+								<li>Unlimited Subdomains</li>
+							</ul>
+						</div>
+						<div class="price_btn">
+							<a href="#" class="btn-white-line">Buy Now</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- ***** price End ***** -->
 
 
 <?php include"footer.php";?>
