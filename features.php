@@ -33,19 +33,11 @@
 								<img src="assets/images/icons/apps/1.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Dance School</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(144)</li>
-								</ul>
+								<h5 class="title">Rate/Invetory</h5>
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -58,19 +50,12 @@
 								<img src="assets/images/icons/apps/2.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Coiner</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(73)</li>
-								</ul>
+								<h5 class="title">Booking</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -83,19 +68,12 @@
 								<img src="assets/images/icons/apps/3.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Cloud Manager</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(288)</li>
-								</ul>
+								<h5 class="title">Stop Sell</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -108,19 +86,12 @@
 								<img src="assets/images/icons/apps/4.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Social Winner</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li>(98)</li>
-								</ul>
+								<h5 class="title">Bulk Update</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -133,19 +104,12 @@
 								<img src="assets/images/icons/apps/5.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Coding Life</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(9)</li>
-								</ul>
+								<h5 class="title">Pay reshotel</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -158,19 +122,12 @@
 								<img src="assets/images/icons/apps/6.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Design Now</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(476)</li>
-								</ul>
+								<h5 class="title">Reshotel Dues</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -183,19 +140,12 @@
 								<img src="assets/images/icons/apps/7.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Smart Recorder</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(27)</li>
-								</ul>
+								<h5 class="title">image Gallery</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -208,19 +158,12 @@
 								<img src="assets/images/icons/apps/8.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Pocket Office</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(943)</li>
-								</ul>
+								<h5 class="title">Manage Channels</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
 							</div>
 						</div>
 					</div>
@@ -230,22 +173,49 @@
 					<div class="col-lg-4 col-md-6 col-sm-12">
 						<div class="page-app">
 							<div class="icon">
-								<img src="assets/images/icons/apps/1.png" alt="">
+								<img src="assets/images/icons/apps/9.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Dance School</h5>
-								<ul class="stars">
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star active"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li><i class="fa fa-star"></i></li>
-									<li>(144)</li>
-								</ul>
+								<h5 class="title">Website Templates</h5>
+								
 								<div class="text">
 									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
 								</div>
-								<a href="app-single.html" class="btn-primary-line">App Details</a>
+								
+							</div>
+						</div>
+					</div>
+					<!-- ***** App Item End ***** -->
+					<!-- ***** App Item Start ***** -->
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="page-app">
+							<div class="icon">
+								<img src="assets/images/icons/apps/10.png" alt="">
+							</div>
+							<div class="app-content">
+								<h5 class="title">Walk In Booking</h5>
+								
+								<div class="text">
+									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<!-- ***** App Item End ***** -->
+					<!-- ***** App Item Start ***** -->
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<div class="page-app">
+							<div class="icon">
+								<img src="assets/images/icons/apps/11.png" alt="">
+							</div>
+							<div class="app-content">
+								<h5 class="title">Booking Analytics</h5>
+								
+								<div class="text">
+									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+								</div>
+								
 							</div>
 						</div>
 					</div>
