@@ -62,7 +62,7 @@
 				<div class="col-lg-12">
 					<nav class="main-nav">
 						<!-- ***** Logo Start ***** -->
-						<a href="home.html" class="logo">
+						<a href="index.php" class="logo">
 							
 							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="light-logo img-responsive" alt="reshotel ICO"/>
 							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="dark-logo img-responsive" alt="reshotel ICO"/>
