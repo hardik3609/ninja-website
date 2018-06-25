@@ -14,9 +14,9 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
-						<h1>Check out our mobile apps we're working on.</h1>
-						<p>We design and develop mobile apps that delight your users and grow your business. Enterprise-grade development combined with outstanding design.</p>
-						<a class="btn-white-line" href="#">ALL WORKS</a>
+						<h1>SMART HOTEL + SMART PHONE = SMART BUSINESS</h1>
+						<p>Increase direct bookings with our free beautiful websites, manage your rooms on maximum OTAs and improve your social reputation, hence increase your profit margins.</p>
+						<a class="btn-white-line" href="#">Try demo</a>
 					</div>
 					<div class="offset-lg-1 col-lg-5 col-md-12 col-sm-12 col-xs-12 align-self-center">
 						<div class="apps">
@@ -134,25 +134,25 @@
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<a href="services-single.html" class="home-services-item mtop-70" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
 								<i class="fa fa-clone"></i>
-								<h5 class="services-title">Mobility Services Strategy</h5>
-								<p>Morbi pharetra sapien ut mattis viverra. Curabitur sit amet mattis.</p>
+								<h5 class="services-title">Email Reporting</h5>
+								<p>Track every room and rate update and stay ahead.</p>
 							</a>
 							<a href="services-single.html" class="home-services-item" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
 								<i class="fa fa-connectdevelop"></i>
-								<h5 class="services-title">Native App Development</h5>
-								<p>Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
+								<h5 class="services-title">Free websites</h5>
+								<p>You can change theme of your website anytime. Create first impression with our beautiful website.</p>
 							</a>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<a href="services-single.html" class="home-services-item active" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
 								<i class="fa fa-object-ungroup"></i>
-								<h5 class="services-title">Design & User Experience</h5>
-								<p>Donec pellentesque turpis utium lorem imperdiet semper viverra.</p>
+								<h5 class="services-title">Channel Manager</h5>
+								<p>Auto Manage rooms and rates on OTAs with rate parity.</p>
 							</a>
 							<a href="services-single.html" class="home-services-item" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
 								<i class="fa fa-line-chart"></i>
-								<h5 class="services-title">Maintenance & Monitoring</h5>
-								<p>Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
+								<h5 class="services-title">Social Media Marketing</h5>
+								<p>Create and maintain your hotel’s reputation and prepare for direct bookings.</p>
 							</a>
 						</div>
 					</div>
@@ -178,8 +178,8 @@
 								<span>1</span>
 							</div>
 							<div class="text">
-								<h5 class="title">Design and UX that ensures your app will be loved and used</h5>
-								<p>Quisque nec consectetur arcu. Duis tellus ante, sodales sed molestie at, sagittis id neque. Quisque condimentum libero arcu. Mauris tellus sem, ultrices varius nisl at.</p>
+								<h5 class="title">Mobile app</h5>
+								<p>Everything is handy today, then why not channel manager? Update room rate and inventory anytime anywhere via android app or ios app. With mobile app you can also record walkins.</p>
 							</div>
 						</li>
 						<li data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
@@ -187,8 +187,8 @@
 								<span>2</span>
 							</div>
 							<div class="text">
-								<h5 class="title">Enterprise-grade development secures reliability and quality</h5>
-								<p>Praesent tortor nulla, ullamcorper vel ante at, varius tincidunt augue. Cras vitae consectetur arcu. Proin at velit vel risus elementum accumsan sed non neque. Aenean risus.</p>
+								<h5 class="title">Booking engine</h5>
+								<p>Our booking engine can also be placed on your website to increase direct booking.</p>
 							</div>
 						</li>
 						<li data-scroll-reveal="enter bottom move 30px over 0.6s after 0.4s">
@@ -196,8 +196,8 @@
 								<span>3</span>
 							</div>
 							<div class="text">
-								<h5 class="title">A proven and tested process guarantees your success</h5>
-								<p>Aliquam bibendum velit ut ante cursus, et efficitur lectus rutrum. Maecenas ac convallis lorem, non ultricies sem. Duis elit metus, ullamcorper sed ante sed, viverra bibendum neque.</p>
+								<h5 class="title">24*7 customer support</h5>
+								<p>Everyone leaves in trouble but we promise to stay in touch 24*7. Our customer support is well known among hoteliers.</p>
 							</div>
 						</li>
 						<li data-scroll-reveal="enter bottom move 30px over 0.6s after 0.5s">
@@ -205,8 +205,8 @@
 								<span>4</span>
 							</div>
 							<div class="text">
-								<h5 class="title">Start-to-end app development agency</h5>
-								<p>Cras imperdiet faucibus sem, a dignissim urna feugiat sed. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque posuere vestibulum lorem.</p>
+								<h5 class="title">Booking Analytics</h5>
+								<p>Analysis helps in predicting future. With booking analytics you can easily predict how many bookings, from which channel you are getting most bookings, etc.</p>
 							</div>
 						</li>
 					</ul>
@@ -228,7 +228,7 @@
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						<p>Screenshots help in better understanding of features</p>
 					</div>					
 				</div>
 			</div>
@@ -577,7 +577,7 @@
 					<div class="brand-slider">
 						<div class="center-heading">
 							<h2 class="section-title-white">Our  Partners</h2>
-							<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+							<p>Connecting you with maximum number of OTAs</p>
 						</div>
 					   <section class="customer-logos slider">
 						  <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
@@ -606,7 +606,7 @@
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Get start your business with our awesome pricing plan.</p>
+						<p>Get start your business with our awesome pricing plan</p>
 					</div>					
 				</div>
 			</div>

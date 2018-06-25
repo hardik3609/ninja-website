@@ -4,9 +4,9 @@
 			<div class="row">
 				<div class="col-lg-5 col-md-12 col-sm-12">
 					<img src="assets/images/reshotel dark.png" style="width: 195px;" class="logo" alt="">
-					<div class="text">Morbi convallis bibendum urna ut viverra. Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi ultricies laoreet ullamcorper phasellus semper.</div>
+					<div class="text">A channel manager with advanced features to manage rooms on maximum OTAs. From making available rooms on OTAs to social media marketing, Reshotel takes care of your hotel and increases social presence.</div>
 				</div>
-				<div class="col-lg-2 col-md-4 col-sm-6 col-6">
+				<div class="col-lg-3 col-md-4 col-sm-6 col-6">
 					<h5>Helpful Links</h5>
 					<ul class="footer-nav">
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Our Work</span></a></li>
@@ -14,16 +14,6 @@
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Services</span></a></li>
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Blog</span></a></li>
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Contact</span></a></li>
-					</ul>
-				</div>
-				<div class="col-lg-2 col-md-4 col-sm-6 col-6">
-					<h5>Latest Apps</h5>
-					<ul class="footer-nav">
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Dance School</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Coiner</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Cloud Manager</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Coding Life</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>Smart Office</span></a></li>
 					</ul>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-12">
