@@ -223,7 +223,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="center-heading">
-						<h2 class="section-title">Screen Shoot</h2>
+						<h2 class="section-title">Screen Shots</h2>
 					</div>
 				</div>
 				<div class="offset-lg-3 col-lg-6">
