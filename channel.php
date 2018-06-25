@@ -26,68 +26,65 @@
 		<div class="page-bottom pbottom-70">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-clone"></i>
-							<h5 class="services-title">Mobility Services Strategy</h5>
-							<p>Morbi pharetra sapien ut mattis viverra. Curabitur sit amet mattis.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/1.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-connectdevelop"></i>
-							<h5 class="services-title">Native App Development</h5>
-							<p>Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/2.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-object-ungroup"></i>
-							<h5 class="services-title">Design & User Experience</h5>
-							<p>Donec pellentesque turpis utium lorem imperdiet semper look viverra.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/3.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-line-chart"></i>
-							<h5 class="services-title">Maintenance and App Monitoring</h5>
-							<p>Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/4.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-user-o"></i>
-							<h5 class="services-title">User Definition and User Profiling</h5>
-							<p>Morbi pharetra sapien ut mattis viverra. Curabitur sit amet mattis.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/5.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-picture-o"></i>
-							<h5 class="services-title">Graphic Assets for App Stores</h5>
-							<p>Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/6.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-code"></i>
-							<h5 class="services-title">API Development Using Node.js</h5>
-							<p>Donec pellentesque turpis utium lorem imperdiet semper look viverra.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/7.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-database"></i>
-							<h5 class="services-title">Database Solutions - MongoDB</h5>
-							<p>Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/8.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<a href="services-single.html" class="home-services-item">
-							<i class="fa fa-cubes"></i>
-							<h5 class="services-title">Back-End and API Development</h5>
-							<p>Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo.</p>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/9.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/10.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/11.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/12.png"  class="img-fluid" alt="channel partner"/>
+						</div>
 					</div>
 				</div>
 			</div>

@@ -25,7 +25,7 @@
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
 											<div class="icon">
-												<img src="assets/images/icons/apps/1.png" title="Rate/Invaetory" class="img-fluid" alt="">
+												<img src="assets/images/icons/apps/1.png" title="Rate/Invetory" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
@@ -252,7 +252,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -266,7 +266,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -280,7 +280,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -294,7 +294,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -312,7 +312,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -326,7 +326,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -340,7 +340,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -354,7 +354,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invaetory
+										Rate/Invetory
 									</h5>
 								</div>
 							</div>
@@ -596,7 +596,7 @@
 	</section>
 	<!-- *****channel partner  End ***** -->
 	<!-- ***** price start ***** -->
-	<section class="section pbottom-70">
+	<section id="price" class="section pbottom-70">
 		<div class="container wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
 			<div class="row">
 				<div class="col-lg-12">
@@ -610,7 +610,7 @@
 					</div>					
 				</div>
 			</div>
-			<div class="row">
+			<div class="row" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s" >
 				<div class="col-md-3 col-sm-6">
 					<div class="pricetable">
 						<div class="pricetable_header">

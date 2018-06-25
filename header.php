@@ -62,7 +62,7 @@
 				<div class="col-lg-12">
 					<nav class="main-nav">
 						<!-- ***** Logo Start ***** -->
-						<a href="home.html" class="logo">
+						<a href="index.php" class="logo">
 							
 							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="light-logo img-responsive" alt="reshotel ICO"/>
 							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="dark-logo img-responsive" alt="reshotel ICO"/>
@@ -73,18 +73,29 @@
 						<ul class="nav">
 							<li><a href="index.php">HOME</a></li>
 							<li><a href="features.php">FEATURES</a></li>
-							<li><a href="about-us.php">ABOUT US</a></li>
+							<!--li><a href="about-us.php">ABOUT US</a></li-->
+							<li><a href="index.php#price">PRICING</a></li>
 							<li><a href="channel.php">CHANNEL PARTNER</a></li>
 							<li><a href="blog.php">BLOG</a></li>
-							<li><a href="contact.php" class="btn-nav-line">CONTACT</a></li>
+							<li><a href="contact.php">CONTACT</a></li>
+							<li><a href="#" class="btn-nav-line">FREE DEMO</a></li>
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
 						</a>
-						<!-- ***** Menu End ***** -->						
+						<!-- ***** Menu End ***** -->					
 					</nav>
 				</div>
-			</div>
+			</div>			
 		</div>
+		<!-- ***** Download Link Start ***** -->
+		<div class="download-link">
+			<ul class="">
+				
+				<li><a href="https://goo.gl/vGL07e"><i class="fa fa-android" aria-hidden="true"></i></a></li>
+				<li><a href="https://goo.gl/Xnm5z7"><i class="fa fa-apple" aria-hidden="true"></i></a></li>
+			</ul>
+		</div>
+		<!-- ***** Download Link End ***** -->	
 	</header>
 	<!-- ***** Header Area End ***** -->

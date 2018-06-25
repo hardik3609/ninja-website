@@ -1,4 +1,73 @@
-<?php include"header.php";?>
+<?php 
+ 
+
+if(isset($_POST['submit']))
+{	  
+	$name = trim($_POST['name']);
+	$mail = trim($_POST['mail']);
+	$num = trim($_POST['num']);
+	$messageForm = $_POST['messageForm'];
+	$smsbody="Hello the G Hotel You Have one request from website Room Require:-$num Name:-$name Email:-$mail Massage:-$messageForm";
+// Avoid Email Injection and Mail Form Script Hijacking
+	$pattern = "/(content-type|bcc:|cc:|to:)/i";
+	if( preg_match($pattern, $name) || preg_match($pattern, $mail) || preg_match($pattern, $messageForm) ) {
+		exit;
+	}
+
+	// Email will be send
+	$to = " hardikkumawat3985@gmail.com"; // Change with your email address
+	$sub = "$num Enquiry from channel manager"; // You can define email car
+	// HTML Elements for Email Body
+	$body = '
+	<html>
+        <head>
+          <title>Mail from '. $name .'</title>
+        </head>
+        <body>
+          <table style="width: 500px; font-family: arial; font-size: 14px;" border="1">
+            <tr style="height: 32px;">
+              <th align="right" style="width:150px; padding-right:5px;">Name:</th>
+              <td align="left" style="padding-left:5px; line-height: 20px;">'. $name .'</td>
+            </tr>
+            <tr style="height: 32px;">
+              <th align="right" style="width:150px; padding-right:5px;">E-mail:</th>
+              <td align="left" style="padding-left:5px; line-height: 20px;">'. $mail .'</td>
+            </tr>
+            <tr style="height: 32px;">
+              <th align="right" style="width:150px; padding-right:5px;">Subject:</th>
+              <td align="left" style="padding-left:5px; line-height: 20px;">'. $num .'</td>
+            </tr>
+            <tr style="height: 32px;">
+              <th align="right" style="width:150px; padding-right:5px;">Message:</th>
+              <td align="left" style="padding-left:5px; line-height: 20px;">'. $messageForm  .'</td>
+            </tr>
+          </table>
+        </body>
+        </html>';
+
+//Must end on first column
+	
+	$headers = "From: $name <$mail>\r\n";
+	$headers .= 'MIME-Version: 1.0' . "\r\n";
+	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+
+	// PHP email sender
+	if(mail($to, $sub, $body, $headers))
+	{
+		echo "<script>alert('Mail was sent.Click okay !');</script>";
+		echo "<script>document.location.href='index.php'</script>"; 
+		
+	}
+	else
+	{	
+		echo '<script>alert("'.$smsbody.'");</script>';
+      echo "<script>document.location.href='contact.php'</script>";
+ 
+	}
+	
+}
+
+include"header.php";?>
 
 
 	<section class="page">
@@ -12,7 +81,7 @@
 						</div>
 						<div class="col-lg-12">
 							<ol class="breadcrumb">
-								<li><a href="index.html">Home</a></li>
+								<li><a href="index.php">Home</a></li>
 								<li class="active">Contact Us</li>
 							</ol>
 						</div>
@@ -46,27 +115,27 @@
 								<div class="item">
 									<i class="fa fa-location-arrow"></i>
 									<div class="txt">
-										<span>455 West Orchard Street<br>Kings Mountain, NC 28086</span>
+										<span>201, Centre Point, J.B.Nagar, Andheri East, Mumbai, Maharashtra 400059</span>
 									</div>
 								</div>
 								<div class="item">
 									<i class="fa fa-phone"></i>
 									<div class="txt">
-										<span>(272) 211-7370<br>(524) 386-5730</span>
+										<span>(+91) 7727 840 317<br> (+91) 9610 498 060<br>(+91) 8619 032 756</span>
 									</div>
 								</div>
 								<div class="item">
 									<i class="fa fa-envelope"></i>
 									<div class="txt">
-										<span><a href="mailto:support@yourbrand.com">support@yourbrand.com</a></span>
+										<span><a href="mailto:hotelsupport@reshotel.in">hotelsupport@reshotel.in</a></span>
 									</div>
 								</div>
 								<ul class="social">
-									<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-									<li><a href="#"><i class="fa fa-google-plus-square"></i></a></li>
-									<li><a href="#"><i class="fa fa-github-square"></i></a></li>
+									<li><a href="https://www.facebook.com/reshotel/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/hotelsupport7"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/reshotel-india-b35b1412a/"><i class="fa fa-linkedin"></i></a></li>
+									<li><a href="https://plus.google.com/115810654832337818045"><i class="fa fa-google-plus"></i></a></li>
+									<li><a href="https://www.instagram.com/reshotel_channel_manager/"><i class="fa fa-instagram"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -90,20 +159,25 @@
 					<!-- ***** Contact Form Start ***** -->
 					<div class="col-lg-8 col-md-6 col-sm-12">
 						<div class="contact-form">
+						<form id="contact-form" action="" method="post">
 							<div class="row">
-								<div class="col-lg-6 col-md-12 col-sm-12">
-									<input type="text" placeholder="Name, surname">
+								<div class="col-lg-12 col-md-12 col-sm-12">
+									<input type="text" name="name" placeholder="Name, surname" required >
 								</div>
 								<div class="col-lg-6 col-md-12 col-sm-12">
-									<input type="text" placeholder="E-Mail">
+									<input type="number" name="num" required placeholder="Mobile Number">
+								</div>
+								<div class="col-lg-6 col-md-12 col-sm-12">
+									<input type="text" name="mail" placeholder="E-Mail" required>
 								</div>
 								<div class="col-lg-12">
-									<textarea placeholder="Your message"></textarea>
+									<textarea name="messageForm" placeholder="Your message" required ></textarea>
 								</div>
 								<div class="col-lg-12">
-									<button class="btn-primary-line">SEND</button>
+									<button name="submit" type="submit" class="btn-primary-line">SEND</button>
 								</div>
 							</div>
+						</form>
 						</div>
 					</div>
 					<!-- ***** Contact Form End ***** -->

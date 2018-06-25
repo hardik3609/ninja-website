@@ -120,5 +120,22 @@
 		}
 	});
 
+	// play srore Scrolling Set Background change
+	// $(window).on('scroll', function() {
+		// var width = $(window).width();
+		// if(width > 991) {
+			// var scroll = $(window).scrollTop();
+			// if (scroll >= 30) {
+				// $(".header-area").addClass("header-sticky");
+				// $(".header-area .dark-logo").css('display', 'block');
+				// $(".header-area .light-logo").css('display', 'none');
+			// }else{
+				// $(".header-area").removeClass("header-sticky");
+				// $(".header-area .dark-logo").css('display', 'none');
+				// $(".header-area .light-logo").css('display', 'block');
+			// }
+		// }
+	// });
+
 
 })(window.jQuery);

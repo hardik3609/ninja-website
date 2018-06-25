@@ -19,15 +19,15 @@
 				<div class="col-lg-3 col-md-4 col-sm-12">
 					<h5>Contact Us</h5>
 					<div class="address">
-						<p>455 West Orchard Street<br>Kings Mountain, NC 28086</p>
-						<p>Phone: (272) 211-7370</p>
-						<p><span>E-Mail:</span><a href="#">support@yourbrand.com</a></p>
+						<p>201, Centre Point, J.B.Nagar, Andheri East, Mumbai, Maharashtra 400059</p>
+						<p>Phone: (+91) 7727 840 317, (+91) 9610 498 060<br>(+91) 8619 032 756</p>
+						<p><span>E-Mail:</span><a href="mailto:hotelsupport@reshotel.in">hotelsupport@reshotel.in</a></p>
 						<ul class="social">
-							<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-							<li><a href="#"><i class="fa fa-google-plus-square"></i></a></li>
-							<li><a href="#"><i class="fa fa-github-square"></i></a></li>
+							<li><a href="https://www.facebook.com/reshotel/"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://twitter.com/hotelsupport7"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/reshotel-india-b35b1412a/"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://plus.google.com/115810654832337818045"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="https://www.instagram.com/reshotel_channel_manager/"><i class="fa fa-instagram"></i></a></li>
 						</ul>
 					</div>
 				</div>
