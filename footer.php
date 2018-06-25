@@ -85,7 +85,11 @@
 	<script src="assets/js/imgfix.min.js"></script>	
 	<script src="http://maps.google.com/maps/api/js?key=AIzaSyAthC_2x5GtKhiH7rUumkMbwvp31qyFyA8"></script>
 	<script src="assets/js/map-script.js"></script>
-
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+});
+</script>
 	<!-- Global Init -->
 	<script src="assets/js/custom.js"></script>
 </body>

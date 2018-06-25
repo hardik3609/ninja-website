@@ -124,6 +124,11 @@ h1, h2, h3, h4, h5, h6 {
 ul {
   margin-bottom: 0px;
 }
+
+/*tool tip*/
+.tooltip-inner{
+background-color: #2C6C4B;
+}
 /*download link*/
 .download-link {
 	float: right;
@@ -149,6 +154,8 @@ ul {
 }
 /*---------download link*--------/
 /* 
+
+
 ---------------------------------------------
 preloader
 --------------------------------------------- 
@@ -1061,7 +1068,7 @@ welcome area
 
 .welcome-area .welcome-content h1 {
   font-weight: 400;
-  font-size: 36px;
+  font-size: 19px;
   line-height: 46px;
   letter-spacing: 1.4px;
   color: #fff;
@@ -1210,6 +1217,10 @@ home
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  position: relative;
+  z-index: 2;
+}
+.home-services-item p{
   position: relative;
   z-index: 2;
 }

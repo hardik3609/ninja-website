@@ -24,78 +24,78 @@
 								<div class="row">
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/1.png" title="Rate/Invetory" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Rates/Inventory" data-placement="top" class="test">
+												<a href="#"><img src="assets/images/icons/apps/1.png" class="img-fluid" alt=""></a>
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/2.png" title="Booking" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Booking" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/2.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/3.png" title="Stop Sell" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Stop Sell" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/3.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/4.png" title="Bulk Update" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Bulk Update" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/4.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/5.png" title="Pay reshotel"class="img-fluid" alt="">
+											<div class="icon"data-toggle="tooltip" title="Pay Reshotel" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/5.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/6.png" title="Reshotel Dues" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Reshotel Dues" placement="bottom" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/6.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/7.png" title="image Gallery" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Image Gallery" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/7.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/8.png" title="Manage Channels" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Manage Channels" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/8.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/9.png" title="Website Templates" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Website Templates" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/9.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/10.png" title="Walk In Booking" class="img-fluid" alt="">
+											<div class="icon" data-toggle="tooltip" title="Walk-In Booking" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/10.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
-											<div class="icon">
-												<img src="assets/images/icons/apps/11.png" title="Booking Analytics	" class="img-fluid" alt="">
+											<div class="icon"data-toggle="tooltip" title="Booking Analytics" data-placement="top" class="test">
+												<img src="assets/images/icons/apps/11.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
@@ -706,3 +706,5 @@
 
 
 <?php include"footer.php";?>
+
+</script>
