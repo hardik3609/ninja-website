@@ -252,7 +252,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -266,7 +266,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -280,7 +280,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -294,7 +294,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -312,7 +312,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -326,7 +326,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -340,7 +340,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
@@ -354,7 +354,7 @@
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Invetory
+										Rate/Inventory
 									</h5>
 								</div>
 							</div>
