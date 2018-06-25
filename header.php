@@ -78,7 +78,7 @@
 							<li><a href="channel.php">CHANNEL PARTNER</a></li>
 							<li><a href="blog.php">BLOG</a></li>
 							<li><a href="contact.php">CONTACT</a></li>
-							<li><a href="#" class="btn-nav-line">FREE DEMO</a></li>
+							<li><a href="#freedemo" class="btn-nav-line" data-toggle="modal">FREE DEMO</a></li>
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
@@ -88,6 +88,9 @@
 				</div>
 			</div>			
 		</div>
+		<!--free demo model popup-->
+		<?php include"free-demo.php";?>
+		<!--free demo model popup//-->
 		<!-- ***** Download Link Start ***** -->
 		<div class="download-link">
 			<ul class="">

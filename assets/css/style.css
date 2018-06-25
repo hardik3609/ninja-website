@@ -147,7 +147,11 @@ ul {
 .download-link li{
 	margin-top: 6px;
 }
-/*---------download link*--------/
+/*---------download link*--------*/
+.modal-backdrop.show {
+    opacity: .5;
+    z-index: 12;
+}
 /* 
 ---------------------------------------------
 preloader
@@ -640,8 +644,9 @@ blockquote .author {
 	background-color: #007929;
 }
 .price_btn a:hover{
-    background: #ef071d;
-    color: #f4f8fb;
+    background: #ffffff;
+    color: #007929;
+    border: 2px solid #007929;
 }
 /*-- price block end--*/
 /* 
