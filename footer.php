@@ -10,7 +10,6 @@
 					<h5>Helpful Links</h5>
 					<ul class="footer-nav">
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Our Work</span></a></li>
-						<li><a href="#"><i class="fa fa-angle-right"></i><span>About Us</span></a></li>
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Services</span></a></li>
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Blog</span></a></li>
 						<li><a href="#"><i class="fa fa-angle-right"></i><span>Contact</span></a></li>
