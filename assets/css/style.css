@@ -533,7 +533,16 @@ blockquote .author {
   margin-bottom: 49px;
   color: white;
 }
-
+.channel-logo{
+	height:100px;
+	background-color:white;
+	border-radius:30px;
+}
+.channel-logo img{
+	width:100px;
+	padding-top:40px;
+	padding-left:30px
+}
 .left-text {
   font-weight: 400;
   font-size: 16px;
