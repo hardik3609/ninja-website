@@ -33,9 +33,9 @@
 								<img src="assets/images/icons/apps/1.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Rate/Invetory</h5>
+								<h5 class="title">Rates/Invetory</h5>
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Manage rates and inventory of rooms. Stop sell of a room for a day can be done in this widget.
 								</div>
 								
 							</div>
@@ -50,10 +50,9 @@
 								<img src="assets/images/icons/apps/2.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Booking</h5>
-								
+								<h5 class="title">Bookings</h5>
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Bookings by name, date, booking id and channel can be listed here with booking details.
 								</div>
 								
 							</div>
@@ -71,7 +70,7 @@
 								<h5 class="title">Stop Sell</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									See all the dates on which the hotel is stop sold and stop sell your hotel for a day.
 								</div>
 								
 							</div>
@@ -89,7 +88,7 @@
 								<h5 class="title">Bulk Update</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Update rates,inventory and stop sell of rooms for one or more than one day.
 								</div>
 								
 							</div>
@@ -104,10 +103,10 @@
 								<img src="assets/images/icons/apps/5.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">Pay reshotel</h5>
+								<h5 class="title">Pay Reshotel</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Our Reshotel application allows you to pay any time anywhere easily. 
 								</div>
 								
 							</div>
@@ -123,9 +122,9 @@
 							</div>
 							<div class="app-content">
 								<h5 class="title">Reshotel Dues</h5>
-								
+								    Reshotel dues keeps record of all dues to be paid and already paid.
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									
 								</div>
 								
 							</div>
@@ -140,10 +139,10 @@
 								<img src="assets/images/icons/apps/7.png" alt="">
 							</div>
 							<div class="app-content">
-								<h5 class="title">image Gallery</h5>
+								<h5 class="title">Image Gallery</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Add, delete, re-sequence images of hotel and rooms in image gallery.
 								</div>
 								
 							</div>
@@ -161,7 +160,7 @@
 								<h5 class="title">Manage Channels</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									List of all channels with which your hotel is connected, under process or disabled.
 								</div>
 								
 							</div>
@@ -179,7 +178,7 @@
 								<h5 class="title">Website Templates</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Option to select beautiful website from four themes for your hotel.
 								</div>
 								
 							</div>
@@ -196,7 +195,7 @@
 								<h5 class="title">Walk In Booking</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									No need to keep register for walk-in bookings. It can easily be noted in our app.
 								</div>
 								
 							</div>
@@ -213,7 +212,7 @@
 								<h5 class="title">Booking Analytics</h5>
 								
 								<div class="text">
-									Facilisis arcu ligula, malesuada id tincidunt laoreet, facilisis at justo id tincidunt.
+									Predict the future of bookings, revenue, stay length,etc via booking analytics.
 								</div>
 								
 							</div>
