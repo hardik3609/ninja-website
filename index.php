@@ -235,8 +235,8 @@
 			<div id="myCarousel" class="carousel slide" data-ride="carousel" >
 			
 				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class=""></li>
-					<li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1" class=""></li>
 					<li data-target="#myCarousel" data-slide-to="2"></li>
 				</ol>
 				<div class="carousel-inner">
@@ -246,7 +246,21 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/dashboard.png" class="img-fluid" alt="Deshboard">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Reshotel Deshboard
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/rates inventory.png" class="img-fluid" alt="rates and inventory">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
@@ -260,13 +274,13 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/booking.png" class="img-fluid" alt="booking">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
+										Rooms Booking
 									</h5>
 								</div>
 							</div>
@@ -274,27 +288,13 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/stop sell.png" class="img-fluid" alt="stop sell">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
-									</div>
-									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
-									</p>
-									<h5 class="social">
-										Rate/Inventory
+										Stop Sell
 									</h5>
 								</div>
 							</div>
@@ -306,13 +306,13 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/bulk update.png" class="img-fluid" alt="Bulk Update">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
+										Bulk Update
 									</h5>
 								</div>
 							</div>
@@ -320,13 +320,13 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/reshotel pay.png" class="img-fluid" alt="reshotel pay">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
+										Pay Reshotel
 									</h5>
 								</div>
 							</div>
@@ -334,13 +334,13 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/reshotel dues.png" class="img-fluid" alt="reshotel dues">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
+										Reshotel Dues
 									</h5>
 								</div>
 							</div>
@@ -348,13 +348,73 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/screenshot1.png" class="img-fluid" alt="">
+										<img src="assets/images/screen-shot/image gallery.png" class="img-fluid" alt="image gallery">
 									</div>
 									<p >
 										here i am testing paragraph. It is working fine now.checking the width of content.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
+										Image Gallery
+									</h5>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<div class="row">
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/manage channels.png" class="img-fluid" alt="manage channels">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Manage Channels
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/website template.png" class="img-fluid" alt="website template">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Website Template
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/walk in booking.png" class="img-fluid" alt="walk in booking">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Walk In Booking
+									</h5>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+								<div class="team-item">
+									
+									<div class="img">
+										<img src="assets/images/screen-shot/analytics.png" class="img-fluid" alt="analytics">
+									</div>
+									<p >
+										here i am testing paragraph. It is working fine now.checking the width of content.
+									</p>
+									<h5 class="social">
+										Booking Analytics
 									</h5>
 								</div>
 							</div>
