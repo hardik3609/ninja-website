@@ -148,10 +148,10 @@ include"header.php";?>
 				<div class="row">
 					<!-- ***** Contact Text Start ***** -->
 					<div class="col-lg-4 col-md-6 col-sm-12">
-						<h5 class="mbottom-30">Get in touch</h5>
+						<h5 class="mbottom-30">Get in touch with us</h5>
 						<div class="contact-text">
-							<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam tempus magna vel turpis pharetra dictum. </p>
-							<p>Sed blandit tempus purus, sed sodales leo rutrum vel. Nam vulputate ipsum ac est congue, eget commodo magna lobortis.</p>
+							<p>Our support is available 24*7 to help you out and answer your queries.  </p>
+							<p>Need a quote? Complete the form and we'll contact you with best possible price.</p>
 						</div>
 					</div>
 					<!-- ***** Contact Text End ***** -->
