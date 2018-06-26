@@ -124,7 +124,12 @@ h1, h2, h3, h4, h5, h6 {
 ul {
   margin-bottom: 0px;
 }
-
+/*--loader--*/
+.load h1{
+	font-size: 58px;
+	color: white;
+}
+/*--loader//--*/
 /*tool tip*/
 .tooltip-inner{
 background-color: #2C6C4B;

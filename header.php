@@ -41,16 +41,15 @@
 
 	<!-- ***** Preloader Start ***** -->
 	<div class="loader-wrapper">
-		<div class="center">
-			<div class="dot dot-one"><h1 style="font-size: 150px; color: white;">r</h1></div>
-			<div class="dot dot-two"><h1 style="font-size: 150px; color: white;">e</h1></div>
-			<div class="dot dot-three"><h1 style="font-size: 150px; color: white;">s</h1></div> 
-			<div class="dot dot-four"><h1 style="font-size: 150px; color: white;">h</h1></div>  
-			<div class="dot dot-five"><h1 style="font-size: 150px; color: white;">o</h1></div>
-			<div class="dot dot-six"><h1 style="font-size: 150px; color: white;">t</h1></div>
-			<div class="dot dot-seven"><h1 style="font-size: 150px; color: white;">e</h1></div>
-			<div class="dot dot-eight"><h1 style="font-size: 150px; color: white;">l</h1></div>
-			<div><h1 style="font-size: 60px; color: white;">CHANNEL MANAGER</h1> </div>
+		<div class="center load">
+			<div class="dot dot-one"><h1>r</h1></div>
+			<div class="dot dot-two"><h1>e</h1></div>
+			<div class="dot dot-three"><h1>s</h1></div> 
+			<div class="dot dot-four"><h1>h</h1></div>  
+			<div class="dot dot-five"><h1>o</h1></div>
+			<div class="dot dot-six"><h1>t</h1></div>
+			<div class="dot dot-seven"><h1>e</h1></div>
+			<div class="dot dot-eight"><h1>l</h1></div>
 		</div>
 	</div>
 	<!-- ***** Preloader End ***** -->
