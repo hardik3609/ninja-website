@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-12 col-sm-12">
-					<img src="assets/images/reshotel dark.png" style="width: 195px;" class="logo" alt="">
+					<h5>About Us</h5>
 					<div class="text">A channel manager with advanced features to manage rooms on maximum OTAs. From making available rooms on OTAs to social media marketing, Reshotel takes care of your hotel and increases social presence.</div>
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 col-6">

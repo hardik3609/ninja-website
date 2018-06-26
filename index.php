@@ -122,7 +122,7 @@
 						<img src="assets/images/reshotel-loop.gif" title="Booking Analytics	" class="img-fluid" width="80%" alt="">
 					</div>
 					<div class="left-heading">
-						<h2 class="section-title">Start-to-end app development agency</h2>
+						<h2 class="section-title">Quick Management of rooms via Reshotel</h2>
 					</div>
 					<!--a href="#" class="btn-primary-line">SERVICES</a-->					
 				</div>
@@ -171,8 +171,10 @@
 				<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 align-self-center">
 					<img src="assets/images/mockup/home-mockup.png" class="img-fluid d-block mx-auto" alt="">
 				</div>
+				
 				<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 align-self-center">
-					<ul class="features">
+					<h2>Why choose Reshotel?</h2>
+				<ul class="features">
 						<li data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
 							<div class="count">
 								<span>1</span>
@@ -480,7 +482,7 @@
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						<p>Our satisfied customers say</p>
 					</div>					
 				</div>
 			</div>
@@ -492,16 +494,12 @@
 								<img src="assets/images/photos/team/1.jpg" alt="">
 							</div>
 							<div class="info">
-								<strong>Fletch Skinner</strong>
-								<span>Product Strategist</span>
+								<strong>ROYAL KUMBHALGARH VILAS</strong>
 							</div>
 						</div>
 						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+							A complete solution for hotel industry-Reshotel Channel Manager. We are using from last 6 months and we didn't find any problem yet..Highly recommended to hoteliers for managing their rooms on all OTAs.
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -511,16 +509,12 @@
 								<img src="assets/images/photos/team/2.jpg" alt="">
 							</div>
 							<div class="info">
-								<strong>Lance Bogrol</strong>
-								<span>Visual Designer</span>
+								<strong>HOTEL BAEA VILLA, GOA</strong>
 							</div>
 						</div>
 						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+							There are many Channel Manager Apps out there, but, like me, if you are looking for a user friendly interface backed up with a super support team, then  Reshotel has got to be your first choice. 
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -530,16 +524,12 @@
 								<img src="assets/images/photos/team/3.jpg" alt="">
 							</div>
 							<div class="info">
-								<strong>Valentino Morose</strong>
-								<span>Android Developer</span>
+								<strong>THE G MOUNT VALLEY & RESORT</strong>
 							</div>
 						</div>
 						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+							Brilliant work .. excellent channel management.
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -549,16 +539,12 @@
 								<img src="assets/images/photos/team/4.jpg" alt="">
 							</div>
 							<div class="info">
-								<strong>Giles Posture</strong>
-								<span>iOS Developer</span>
+								<strong>DEEPA THATTE</strong>
 							</div>
 						</div>
 						<div class="body">
-							Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.
+							Connects you to 10+ channel managers. Not only this, if you want it can literally in few hours generate your own hotel website with a booking engine and online payment gateway. A must for small budget hotels.
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 			</div>
@@ -578,7 +564,7 @@
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						<p>Check out our latest updates</p>
 					</div>					
 				</div>
 			</div>
@@ -586,43 +572,43 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/photos/blog/1.jpg" alt="">
+							<img src="assets/images/blog/social-media.jpg" alt="">
 						</div>
 						<h3>
-							<a href="blog-single.html">5 steps to becoming GDPR compliant on mobile apps</a>
+							<a href="blog-single.html">Importance of social media in your business</a>
 						</h3>
 						<div class="text">
-							Mauris tellus sem, ultrices varius nisl at, convallis iaculis mauris. Sed eget sem vitae purus tempus dignissim.
+							People spend 5x more time on facebook than on travel related apps, sites and searches.
 						</div>
-						<a href="blog-single.html" class="btn-primary-line">Read More</a>
+						<a href="#" class="btn-primary-line">Read More</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/photos/blog/2.jpg" alt="">
+							<img src="assets/images/blog/4websites.jpg" alt="">
 						</div>
 						<h3>
-							<a href="blog-single.html">Measuring app success through mobile analytics</a>
+							<a href="blog-single.html">Channel manager with 4 beautiful websites</a>
 						</h3>
 						<div class="text">
-							Cras imperdiet faucibus sem, a dignissim urna feugiat sed. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+							Free beautiful websites to choose from, giving your hotel a new theme.
 						</div>
-						<a href="blog-single.html" class="btn-primary-line">Read More</a>
+						<a href="#" class="btn-primary-line">Read More</a>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/photos/blog/3.jpg" alt="">
+							<img src="assets/images/blog/new-features.jpg" alt="">
 						</div>
 						<h3>
-							<a href="blog-single.html">How accessibility will influence your app development</a>
+							<a href="blog-single.html">Our two new exciting features are out in the market</a>
 						</h3>
 						<div class="text">
-							Quisque euismod nec lacus sit amet maximus. Ut convallis sagittis lorem auctor malesuada. Morbi auctor tortor eu risus condimentum.
+							Booking analytics to predict future bookings and 4 new websites to choose from
 						</div>
-						<a href="blog-single.html" class="btn-primary-line">Read More</a>
+						<a href="#" class="btn-primary-line">Read More</a>
 					</div>
 				</div>
 			</div>
