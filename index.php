@@ -25,7 +25,7 @@
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Rates/Inventory" data-placement="top" class="test">
-												<a href="#"><img src="assets/images/icons/apps/1.png" class="img-fluid" alt=""></a>
+												<img src="assets/images/icons/apps/1.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
@@ -234,7 +234,7 @@
 					</div>					
 				</div>
 			</div>
-			<div id="myCarousel" class="carousel slide" data-ride="carousel" >
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000" >
 			
 				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
