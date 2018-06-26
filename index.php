@@ -16,7 +16,7 @@
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
 						<h1>SMART HOTEL + SMART PHONE = SMART BUSINESS</h1>
 						<p>Increase direct bookings with our free beautiful websites, manage your rooms on maximum OTAs and improve your social reputation, hence increase your profit margins.</p>
-						<a class="btn-white-line" href="#">Try demo</a>
+						<a class="btn-white-line" href="#freedemo" data-toggle="modal">Try demo</a>
 					</div>
 					<div class="offset-lg-1 col-lg-5 col-md-12 col-sm-12 col-xs-12 align-self-center">
 						<div class="apps">
