@@ -171,8 +171,10 @@
 				<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12 align-self-center">
 					<img src="assets/images/mockup/home-mockup.png" class="img-fluid d-block mx-auto" alt="">
 				</div>
+				
 				<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 align-self-center">
-					<ul class="features">
+					<h2>Why choose Reshotel?</h2>
+				<ul class="features">
 						<li data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
 							<div class="count">
 								<span>1</span>
@@ -438,9 +440,6 @@
 						<div class="body">
 							A complete solution for hotel industry-Reshotel Channel Manager. We are using from last 6 months and we didn't find any problem yet..Highly recommended to hoteliers for managing their rooms on all OTAs.
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -456,9 +455,6 @@
 						<div class="body">
 							There are many Channel Manager Apps out there, but, like me, if you are looking for a user friendly interface backed up with a super support team, then  Reshotel has got to be your first choice. 
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -474,9 +470,6 @@
 						<div class="body">
 							Brilliant work .. excellent channel management.
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -492,9 +485,6 @@
 						<div class="body">
 							Connects you to 10+ channel managers. Not only this, if you want it can literally in few hours generate your own hotel website with a booking engine and online payment gateway. A must for small budget hotels.
 						</div>
-						<ul class="social">
-							<li><img src="assets/images/reshotel dark.png" style="width: 97px;" class="light-logo img-responsive" alt="reshotel ICO"/></li>
-						</ul>
 					</div>
 				</div>
 			</div>
