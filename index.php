@@ -25,7 +25,7 @@
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
 										<a href="app-single.html" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Rates/Inventory" data-placement="top" class="test">
-												<a href="#"><img src="assets/images/icons/apps/1.png" class="img-fluid" alt=""></a>
+												<img src="assets/images/icons/apps/1.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
@@ -234,7 +234,7 @@
 					</div>					
 				</div>
 			</div>
-			<div id="myCarousel" class="carousel slide" data-ride="carousel" >
+			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
 			
 				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -251,11 +251,11 @@
 										<img src="assets/images/screen-shot/dashboard.png" class="img-fluid" alt="Deshboard">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Get control of your application with dashboard where you'll get all the features.
 									</p>
 									<h5 class="social">
-										Reshotel Deshboard
-									</h5>
+										Reshotel Dashboard
+										</h5>
 								</div>
 							</div>
 							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
@@ -265,10 +265,10 @@
 										<img src="assets/images/screen-shot/rates inventory.png" class="img-fluid" alt="rates and inventory">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Manage and update rates and inventory of rooms easily.
 									</p>
 									<h5 class="social">
-										Rate/Inventory
+										Rates/Inventory
 									</h5>
 								</div>
 							</div>
@@ -279,10 +279,10 @@
 										<img src="assets/images/screen-shot/booking.png" class="img-fluid" alt="booking">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										List all the bookings with updated status and detailed information.
 									</p>
 									<h5 class="social">
-										Rooms Booking
+										Bookings
 									</h5>
 								</div>
 							</div>
@@ -293,7 +293,7 @@
 										<img src="assets/images/screen-shot/stop sell.png" class="img-fluid" alt="stop sell">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Stop sell your hotel for a day on one click.
 									</p>
 									<h5 class="social">
 										Stop Sell
@@ -311,7 +311,7 @@
 										<img src="assets/images/screen-shot/bulk update.png" class="img-fluid" alt="Bulk Update">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Updates rates and inventory on one click and for n number of days.
 									</p>
 									<h5 class="social">
 										Bulk Update
@@ -325,7 +325,7 @@
 										<img src="assets/images/screen-shot/reshotel pay.png" class="img-fluid" alt="reshotel pay">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Payment can be done any time and anywhere via our app.
 									</p>
 									<h5 class="social">
 										Pay Reshotel
@@ -339,7 +339,7 @@
 										<img src="assets/images/screen-shot/reshotel dues.png" class="img-fluid" alt="reshotel dues">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Get list of upcoming dues and already paid dues.
 									</p>
 									<h5 class="social">
 										Reshotel Dues
@@ -353,7 +353,7 @@
 										<img src="assets/images/screen-shot/image gallery.png" class="img-fluid" alt="image gallery">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Update and resequence images of hotel and rooms in image gallery.
 									</p>
 									<h5 class="social">
 										Image Gallery
@@ -371,7 +371,7 @@
 										<img src="assets/images/screen-shot/manage channels.png" class="img-fluid" alt="manage channels">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Information of boarded, not yet boarded and in-process channels can be seen here.
 									</p>
 									<h5 class="social">
 										Manage Channels
@@ -385,7 +385,7 @@
 										<img src="assets/images/screen-shot/website template.png" class="img-fluid" alt="website template">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Option to choose beautiful website from four options is available.
 									</p>
 									<h5 class="social">
 										Website Template
@@ -399,7 +399,7 @@
 										<img src="assets/images/screen-shot/walk in booking.png" class="img-fluid" alt="walk in booking">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Record walk in booking without register. Save pen and paper.
 									</p>
 									<h5 class="social">
 										Walk In Booking
@@ -413,7 +413,7 @@
 										<img src="assets/images/screen-shot/analytics.png" class="img-fluid" alt="analytics">
 									</div>
 									<p >
-										here i am testing paragraph. It is working fine now.checking the width of content.
+										Analyse bookings and predict the future bookings, lenght of stay, revenue,etc.
 									</p>
 									<h5 class="social">
 										Booking Analytics
