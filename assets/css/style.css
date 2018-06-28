@@ -640,12 +640,12 @@ blockquote .author {
     display: block;
     color: #000;
     padding: 1px 0;
-    font-size: 30px;
+    font-size: 24px;
     background: #fff;
 }
 .price_value>.currency {
     position: relative;
-    font-size: 28px;
+    font-size: 20px;
     margin-right: 4px;
 }
 .price_value>.mo {
@@ -2457,6 +2457,19 @@ contact
   height: 150px;
   resize: none;
   padding: 20px;
+}
+
+.contact-sales {
+	justify-content:center;
+}
+.contact-sales div a {
+    margin: auto;
+    background-color: #007929;
+}
+.contact-sales div a:hover {
+    margin: auto;
+	color: #fff !important;
+    background-color: #007929 !important;
 }
 
 @media (max-width: 991px) {

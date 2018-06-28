@@ -444,26 +444,26 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="count-item">
-							<strong>126</strong>
-							<span>Mobile App<br>Complate</span>
+							<strong>552</strong>
+							<span>Mobile App<br>Downloaded</span>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="count-item">
-							<strong>98</strong>
+							<strong>180</strong>
 							<span>Happy<br>Customer</span>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="count-item">
-							<strong>176</strong>
-							<span>App<br>Version</span>
+							<strong>28</strong>
+							<span>Cities<br>Covered</span>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="count-item">
-							<strong>16</strong>
-							<span>Award<br>Win</span>
+							<strong>28</strong>
+							<span>Connected<br>Major OTAs</span>
 						</div>
 					</div>
 				</div>
@@ -572,7 +572,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/blog/social-media.jpg" alt="">
+							<img src="assets/images/blog/social-media.png" alt="">
 						</div>
 						<h3>
 							<a href="blog-single.html">Importance of social media in your business</a>
@@ -586,7 +586,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/blog/4websites.jpg" alt="">
+							<img src="assets/images/blog/4websites.png" alt="">
 						</div>
 						<h3>
 							<a href="blog-single.html">Channel manager with 4 beautiful websites</a>
@@ -600,7 +600,7 @@
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="blog-post-thumb">
 						<div class="img">
-							<img src="assets/images/blog/new-features.jpg" alt="">
+							<img src="assets/images/blog/new-features.png" alt="">
 						</div>
 						<h3>
 							<a href="blog-single.html">Our two new exciting features are out in the market</a>
@@ -652,7 +652,7 @@
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Get start your business with our awesome pricing plan</p>
+						<p>Start your business with our awesome pricing plan</p>
 					</div>					
 				</div>
 			</div>
@@ -663,19 +663,19 @@
 							<h3 class="heading">
 					  Free
 					</h3>
-							<span class="price_value"><span class="currency">₹</span>5<span class="mo">   /month</span></span>
+							<span class="price_value"><span class="currency">1 month trial free</span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
-								<li>20GB Disk Space</li>
-								<li>30 Email Accounts</li>
-								<li>30GB Monthly Bandwidth</li>
-								<li>30 Domains</li>
-								<li>Unlimited Subdomains</li>
+								<li>Mobile App</li>
+								<li>Assistance in registration on OTAs</li>
+								<li>Free Website</li>
+								<li>24*7 customer support</li>
+								<li>3% commission on direct booking</li>
 							</ul>
 						</div>
 						<div class="price_btn">
-							<a href="#" class="btn-white-line">Buy Now</a>
+							<a href="#" class="btn-white-line">Free Trial</a>
 						</div>
 					</div>
 				</div>
@@ -683,21 +683,21 @@
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
-					  Standard
+					  Quarterly
 					</h3>
-							<span class="price_value"><span class="currency">₹</span>10<span class="mo">   /month</span></span>
+							<span class="price_value"><span class="currency">₹</span><s>3750</s> 3600</s><span style="font-size: 10px;">(including GST)</span></span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
-								<li>50GB Disk Space</li>
-								<li>50 Email Accounts</li>
-								<li>50GB Monthly Bandwidth</li>
-								<li>50 Domains</li>
-								<li>Unlimited Subdomains</li>
+								<li>Mobile App</li>
+								<li>Assistance in registration on OTAs</li>
+								<li>Free Website</li>
+								<li>24*7 customer support</li>
+								<li>3% commission on direct booking</li>
 							</ul>
 						</div>
 						<div class="price_btn">
-							<a href="#" class="btn-white-line">Buy Now</a>
+							<a href="#" class="btn-white-line">Free Trial</a>
 						</div>
 					</div>
 				</div>
@@ -705,21 +705,21 @@
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
-					  Premium
+					  Half Yearly
 					</h3>
-							<span class="price_value"><span class="currency">₹</span>12<span class="mo">   /month</span></span>
+							<span class="price_value"><span class="currency">₹</span><s>7500</s> 7100<span style="font-size: 10px;">(including GST)</span></span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
-								<li>100GB Disk Space</li>
-								<li>100 Email Accounts</li>
-								<li>100GB Monthly Bandwidth</li>
-								<li>100 Domains</li>
-								<li>Unlimited Subdomains</li>
+								<li>Mobile App</li>
+								<li>Assistance in registration on OTAs</li>
+								<li>Free Website</li>
+								<li>24*7 customer support</li>
+								<li>3% commission on direct booking</li>
 							</ul>
 						</div>
 						<div class="price_btn">
-							<a href="#" class="btn-white-line">Buy Now</a>
+							<a href="#" class="btn-white-line">Free Trial</a>
 						</div>
 					</div>
 				</div>
@@ -727,23 +727,29 @@
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
-					  Advance
+					  Yearly
 					</h3>
-							<span class="price_value"><span class="currency">₹</span>24<span class="mo">   /month</span></span>
+							<span class="price_value"><span class="currency">₹</span><s>15000</s> 12750<span style="font-size: 10px;">(including GST)</span></span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
-								<li>200GB Disk Space</li>
-								<li>200 Email Accounts</li>
-								<li>300GB Monthly Bandwidth</li>
-								<li>200 Domains</li>
-								<li>Unlimited Subdomains</li>
+								<li>Mobile App</li>
+								<li>Assistance in registration on OTAs</li>
+								<li>Free Website</li>
+								<li>24*7 customer support</li>
+								<li>3% commission on direct booking</li>
 							</ul>
 						</div>
 						<div class="price_btn">
-							<a href="#" class="btn-white-line">Buy Now</a>
+							<a href="#" class="btn-white-line">Free trial</a>
 						</div>
 					</div>
+				</div>
+			</div>
+			<div class="row contact-sales">
+				<div class="contact-btn">
+							<h6></h6>
+							<a href="callto:1235467" class="btn-white-line">Contact Our Sales Team</a>
 				</div>
 			</div>
 		</div>
