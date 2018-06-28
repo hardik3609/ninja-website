@@ -39,7 +39,7 @@
 </head>
 <body>
 
-	<!-- ***** Preloader Start ***** -->
+	<!-- ***** Preloader Start 
 	<div class="loader-wrapper">
 		<div class="center load">
 			<div class="dot dot-one"><h1>r</h1></div>
@@ -52,7 +52,7 @@
 			<div class="dot dot-eight"><h1>l</h1></div>
 		</div>
 	</div>
-	<!-- ***** Preloader End ***** -->
+      Preloader End ***** -->
 
 	<!-- ***** Header Area Start ***** -->
 	<header class="header-area">

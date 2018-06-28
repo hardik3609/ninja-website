@@ -262,7 +262,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/rates inventory.png" class="img-fluid" alt="rates and inventory">
+										<img src="assets/images/screen-shot/rates-inventory.png" class="img-fluid" alt="rates and inventory">
 									</div>
 									<p >
 										Manage and update rates and inventory of rooms easily.
@@ -290,7 +290,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/stop sell.png" class="img-fluid" alt="stop sell">
+										<img src="assets/images/screen-shot/stop-sell.png" class="img-fluid" alt="stop sell">
 									</div>
 									<p >
 										Stop sell your hotel for a day on one click.
@@ -308,7 +308,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/bulk update.png" class="img-fluid" alt="Bulk Update">
+										<img src="assets/images/screen-shot/bulk-update.png" class="img-fluid" alt="Bulk Update">
 									</div>
 									<p >
 										Updates rates and inventory on one click and for n number of days.
@@ -322,7 +322,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/reshotel pay.png" class="img-fluid" alt="reshotel pay">
+										<img src="assets/images/screen-shot/reshotel-pay.png" class="img-fluid" alt="reshotel pay">
 									</div>
 									<p >
 										Payment can be done any time and anywhere via our app.
@@ -336,7 +336,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/reshotel dues.png" class="img-fluid" alt="reshotel dues">
+										<img src="assets/images/screen-shot/reshotel-dues.png" class="img-fluid" alt="reshotel dues">
 									</div>
 									<p >
 										Get list of upcoming dues and already paid dues.
@@ -350,7 +350,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/image gallery.png" class="img-fluid" alt="image gallery">
+										<img src="assets/images/screen-shot/image-gallery.png" class="img-fluid" alt="image gallery">
 									</div>
 									<p >
 										Update and resequence images of hotel and rooms in image gallery.
@@ -368,7 +368,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/manage channels.png" class="img-fluid" alt="manage channels">
+										<img src="assets/images/screen-shot/manage-channels.png" class="img-fluid" alt="manage channels">
 									</div>
 									<p >
 										Information of boarded, not yet boarded and in-process channels can be seen here.
@@ -382,7 +382,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/website template.png" class="img-fluid" alt="website template">
+										<img src="assets/images/screen-shot/website-template.png" class="img-fluid" alt="website template">
 									</div>
 									<p >
 										Option to choose beautiful website from four options is available.
@@ -396,7 +396,7 @@
 								<div class="team-item">
 									
 									<div class="img">
-										<img src="assets/images/screen-shot/walk in booking.png" class="img-fluid" alt="walk in booking">
+										<img src="assets/images/screen-shot/walk-in-booking.png" class="img-fluid" alt="walk in booking">
 									</div>
 									<p >
 										Record walk in booking without register. Save pen and paper.
