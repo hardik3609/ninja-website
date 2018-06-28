@@ -90,7 +90,92 @@ include"header.php";?>
 			</div>
 		</div>
 		<!-- ***** Page Top End ***** -->
+		<section class="section background pbottom-70">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+					 <div class="team-item">
+						<div class="header">
+							<div class="info">
+								<h2>Sales Queries</h2>
+							</div>
+						</div>
+						<div class="body">
+							Need to find us?No problem.You've come to the right place.<br><a href="mailto:dadheechgarima371@gmail">sales@reshotel.in</a>
+							<br><a href="callto:12345">12345</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+					<div class="team-item">
+						<div class="header">
+							<div class="info">
+								<h2>Customer Support</h2>
+							</div>
+						</div>
+						<div class="body">
+							You've got question, we've got answer.We are here to solve your problem.<br><a href="mailto:dadheechgarima371@gmail">hotelsupport@reshotel.in</a>
+							<br><a href="callto:12345">12345</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+					<div class="team-item">
+						<div class="header">
+							<div class="info">
+								<h2>Accounts</h2>
+							</div>
+						</div>
+						<div class="body">
+							Got issue regarding payment?Mail us your query at below address.<br><a href="mailto:dadheechgarima371@gmail">accounts@reshotel.in</a>
+							<br><a href="callto:12345">12345</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section">
+		<div class="container">
+				<div class="row">
+					<!-- ***** Contact Text Start ***** -->
+					<div class="col-lg-4 col-md-6 col-sm-12">
+						<h5 class="mbottom-30">Get in touch with us</h5>
+						<div class="contact-text">
+							<p>Our support is available 24*7 to help you out and answer your queries.  </p>
+							<p>Need a quote? Complete the form and we'll contact you with best possible price.</p>
+						</div>
+					</div>
+					<!-- ***** Contact Text End ***** -->
 
+					<!-- ***** Contact Form Start ***** -->
+					<div class="col-lg-8 col-md-6 col-sm-12">
+						<div class="contact-form">
+						<form id="contact-form" action="" method="post">
+							<div class="row">
+								<div class="col-lg-12 col-md-12 col-sm-12">
+									<input type="text" name="name" placeholder="Full name" required >
+								</div>
+								<div class="col-lg-6 col-md-12 col-sm-12">
+									<input type="number" name="num" required placeholder="Mobile Number">
+								</div>
+								<div class="col-lg-6 col-md-12 col-sm-12">
+									<input type="text" name="mail" placeholder="E-Mail" required>
+								</div>
+								<div class="col-lg-12">
+									<textarea name="messageForm" placeholder="Your message" required ></textarea>
+								</div>
+								<div class="col-lg-12">
+									<button name="submit" type="submit" class="btn-primary-line">SEND</button>
+								</div>
+							</div>
+						</form>
+						</div>
+					</div>
+					<!-- ***** Contact Form End ***** -->
+				</div>
+			</div>
+			</section>
 		<!-- ***** Page Content Start ***** -->
 		<div class="page-bottom">
 			<div class="map-wrapper">
@@ -112,6 +197,12 @@ include"header.php";?>
 					<div class="row">
 						<div class="offset-lg-8 col-lg-4 col-md-12 col-sm-12">
 							<div class="contact-info">
+								<div class="item">
+									<i class="fa fa-location-arrow"></i>
+									<div class="txt">
+										<span>201, Centre Point, J.B.Nagar, Andheri East, Mumbai, Maharashtra 400059</span>
+									</div>
+								</div>
 								<div class="item">
 									<i class="fa fa-location-arrow"></i>
 									<div class="txt">
@@ -142,46 +233,6 @@ include"header.php";?>
 					</div>
 				</div>
 				<!-- ***** Contact Informations End ***** -->
-			</div>
-
-			<div class="container">
-				<div class="row">
-					<!-- ***** Contact Text Start ***** -->
-					<div class="col-lg-4 col-md-6 col-sm-12">
-						<h5 class="mbottom-30">Get in touch with us</h5>
-						<div class="contact-text">
-							<p>Our support is available 24*7 to help you out and answer your queries.  </p>
-							<p>Need a quote? Complete the form and we'll contact you with best possible price.</p>
-						</div>
-					</div>
-					<!-- ***** Contact Text End ***** -->
-
-					<!-- ***** Contact Form Start ***** -->
-					<div class="col-lg-8 col-md-6 col-sm-12">
-						<div class="contact-form">
-						<form id="contact-form" action="" method="post">
-							<div class="row">
-								<div class="col-lg-12 col-md-12 col-sm-12">
-									<input type="text" name="name" placeholder="Name, surname" required >
-								</div>
-								<div class="col-lg-6 col-md-12 col-sm-12">
-									<input type="number" name="num" required placeholder="Mobile Number">
-								</div>
-								<div class="col-lg-6 col-md-12 col-sm-12">
-									<input type="text" name="mail" placeholder="E-Mail" required>
-								</div>
-								<div class="col-lg-12">
-									<textarea name="messageForm" placeholder="Your message" required ></textarea>
-								</div>
-								<div class="col-lg-12">
-									<button name="submit" type="submit" class="btn-primary-line">SEND</button>
-								</div>
-							</div>
-						</form>
-						</div>
-					</div>
-					<!-- ***** Contact Form End ***** -->
-				</div>
 			</div>
 		</div>
 		<!-- ***** Page Content End ***** -->

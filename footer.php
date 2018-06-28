@@ -19,7 +19,7 @@
 					<h5>Contact Us</h5>
 					<div class="address">
 						<p>201, Centre Point, J.B.Nagar, Andheri East, Mumbai, Maharashtra 400059</p>
-						<p>Phone: (+91) 7727 840 317, (+91) 9610 498 060<br>(+91) 8619 032 756</p>
+						<p>Phone: (+91) 7727 840 317<br> (+91) 9610 498 060<br>(+91) 8619 032 756</p>
 						<p><span>E-Mail:</span><a href="mailto:hotelsupport@reshotel.in">hotelsupport@reshotel.in</a></p>
 						<ul class="social">
 							<li><a href="https://www.facebook.com/reshotel/"><i class="fa fa-facebook"></i></a></li>

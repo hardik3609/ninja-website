@@ -225,7 +225,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="center-heading">
-						<h2 class="section-title">Screen Shots</h2>
+						<h2 class="section-title">Snapshots</h2>
 					</div>
 				</div>
 				<div class="offset-lg-3 col-lg-6">
@@ -747,9 +747,8 @@
 				</div>
 			</div>
 			<div class="row contact-sales">
-				<div class="contact-btn">
-							<h6></h6>
-							<a href="callto:1235467" class="btn-white-line">Contact Our Sales Team</a>
+				<div>
+					<a href="callto:1235467" class="btn-white-line">Contact Our Sales Team</a>
 				</div>
 			</div>
 		</div>
