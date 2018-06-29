@@ -74,7 +74,7 @@
 							<li><a href="features.php">FEATURES</a></li>
 							<!--li><a href="about-us.php">ABOUT US</a></li-->
 							<li><a href="index.php#price">PRICING</a></li>
-							<li><a href="channel.php">CHANNEL PARTNER</a></li>
+							<li><a href="channel.php">CHANNEL PARTNERS</a></li>
 							<li><a href="blog.php">BLOG</a></li>
 							<li><a href="contact.php">CONTACT</a></li>
 							<li><a href="#freedemo" class="btn-nav-line" data-toggle="modal">FREE DEMO</a></li>

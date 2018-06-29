@@ -13,7 +13,7 @@
 						<div class="col-lg-12">
 							<ol class="breadcrumb">
 								<li><a href="index.php">Home</a></li>
-								<li class="active">Channel Partner</li>
+								<li class="active">Channel Partners</li>
 							</ol>
 						</div>
 					</div>
@@ -84,6 +84,55 @@
 					<div class="col-lg-3 col-md-4 col-sm-6">
 						<div class="home-services-item">
 							<img src="assets/images/channel/12.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/13.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/14.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/15.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/16.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/17.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/18.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div><div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/19.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/20.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/21.png"  class="img-fluid" alt="channel partner"/>
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6">
+						<div class="home-services-item">
+							<img src="assets/images/channel/22.png"  class="img-fluid" alt="channel partner"/>
 						</div>
 					</div>
 				</div>
