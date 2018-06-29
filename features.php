@@ -218,6 +218,15 @@
 							</div>
 						</div>
 					</div>
+					<div class="col-lg-4 col-md-6 col-sm-12 free-demo">
+							<a href="#freedemo" data-toggle="modal">
+						<div class="page-app">
+							<div class="app-content">
+								<h5 class="title">Try Free Demo</h5>
+							</div>
+						</div>
+						</a>
+					</div>
 					<!-- ***** App Item End ***** -->
 				</div>
 			</div>

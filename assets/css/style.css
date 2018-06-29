@@ -1953,6 +1953,7 @@ our work
   border-radius: 4px;
 }
 
+
 .page-app .icon {
   float: left;
   position: relative;
@@ -2008,7 +2009,17 @@ our work
 .page-app .app-content .btn-primary-line {
   width: 100%;
 }
-
+.free-demo .page-app .app-content{
+	padding: 70px 48px 70px 30px
+}
+.free-demo .page-app .app-content h5{
+	font-size: 25px !important;
+	font-weight: 700;
+}
+.free-demo .page-app:before{
+  background-image: linear-gradient(127deg, #fbfbfb 0%, #e3eaff 91%) !important;
+  border-radius: 20px;
+}
 .app-single {
   background: #fff;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06);
