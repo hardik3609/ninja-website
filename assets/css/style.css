@@ -246,6 +246,9 @@ preloader
   }
 }
 
+.customer-Testimonial .slick-track{
+	height:auto;
+}
 /* 
 ---------------------------------------------
 global styles
@@ -543,14 +546,14 @@ blockquote .author {
   color: white;
 }
 .channel-logo{
-	height:100px;
-	background-color:white;
+	
+	
 	border-radius:30px;
 }
 .channel-logo img{
-	width:100px;
-	padding-top:40px;
-	padding-left:30px
+	width: 84%;
+    margin: auto;
+	
 }
 .left-text {
   font-weight: 400;
@@ -603,6 +606,7 @@ blockquote .author {
   }
 }
 /*-- price block start--*/
+.pricetable s{font-size: 16px;}
 .pricetable_header>.heading {
 	/* background: linear-gradient(127deg, #00b906 0%, #d3ff24 91%); */
 	background-color: #007929;
@@ -1400,7 +1404,7 @@ home
 .team-item .header .info strong {
   display: block;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   color: #3B566E;
   letter-spacing: 0.6px;
   margin-top: 3px;
@@ -1953,7 +1957,6 @@ our work
   border-radius: 4px;
 }
 
-
 .page-app .icon {
   float: left;
   position: relative;
@@ -2020,6 +2023,7 @@ our work
   background-image: linear-gradient(127deg, #fbfbfb 0%, #e3eaff 91%) !important;
   border-radius: 20px;
 }
+
 .app-single {
   background: #fff;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06);

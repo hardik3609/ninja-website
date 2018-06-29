@@ -23,42 +23,42 @@
 							<div class="container-fluid">
 								<div class="row">
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Rates/Inventory" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/1.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Booking" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/2.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Stop Sell" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/3.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Bulk Update" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/4.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon"data-toggle="tooltip" title="Pay Reshotel" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/5.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Reshotel Dues" placement="bottom" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/6.png" class="img-fluid" alt="">
 											</div>
@@ -72,28 +72,28 @@
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Manage Channels" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/8.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Website Templates" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/9.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon" data-toggle="tooltip" title="Walk-In Booking" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/10.png" class="img-fluid" alt="">
 											</div>
 										</a>
 									</div>
 									<div class="col-lg-3 col-md-3 col-sm-3 col-3">
-										<a href="app-single.html" class="app-item">
+										<a href="#" class="app-item">
 											<div class="icon"data-toggle="tooltip" title="Booking Analytics" data-placement="top" class="test">
 												<img src="assets/images/icons/apps/11.png" class="img-fluid" alt="">
 											</div>
@@ -132,24 +132,24 @@
 				<div class="offset-lg-1 col-lg-6 col-md-12 col-sm-12 align-self-bottom">
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<a href="services-single.html" class="home-services-item mtop-70" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
+							<a href="#" class="home-services-item mtop-70" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
 								<i class="fa fa-clone"></i>
 								<h5 class="services-title">Email Reporting</h5>
 								<p>Track every room and rate update and stay ahead.</p>
 							</a>
-							<a href="services-single.html" class="home-services-item" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
+							<a href="#" class="home-services-item" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s">
 								<i class="fa fa-connectdevelop"></i>
 								<h5 class="services-title">Free websites</h5>
 								<p>You can change theme of your website anytime. Create first impression with our beautiful website.</p>
 							</a>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-							<a href="services-single.html" class="home-services-item active" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
+							<a href="#" class="home-services-item active" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
 								<i class="fa fa-object-ungroup"></i>
 								<h5 class="services-title">Channel Manager</h5>
 								<p>Auto Manage rooms and rates on OTAs with rate parity.</p>
 							</a>
-							<a href="services-single.html" class="home-services-item" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
+							<a href="#" class="home-services-item" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.3s">
 								<i class="fa fa-line-chart"></i>
 								<h5 class="services-title">Social Media Marketing</h5>
 								<p>Create and maintain your hotel’s reputation and prepare for direct bookings.</p>
@@ -235,203 +235,166 @@
 				</div>
 			</div>
 
-			<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
-				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					<li data-target="#myCarousel" data-slide-to="1" class=""></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-				</ol>
-				<div class="carousel-inner">
-					<div class="carousel-item active">
-						<div class="row">
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/dashboard.png" class="img-fluid" alt="Deshboard">
-									</div>
-									<p >
-										Get control of your application with dashboard where you'll get all the features.
-									</p>
-									<h5 class="social">
-										Reshotel Dashboard
-										</h5>
-								</div>
+			<section class="screenshots slider">
+				<div class="slide">
+					<div class="team-item">
+							<div class="img">
+								<img src="assets/images/screen-shot/dash.png" class="img-fluid" alt="Dashboard" width="100%">
 							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/rates-inventory.png" class="img-fluid" alt="rates and inventory">
-									</div>
-									<p >
-										Manage and update rates and inventory of rooms easily.
-									</p>
-									<h5 class="social">
-										Rates/Inventory
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/booking.png" class="img-fluid" alt="booking">
-									</div>
-									<p >
-										List all the bookings with updated status and detailed information.
-									</p>
-									<h5 class="social">
-										Bookings
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/stop-sell.png" class="img-fluid" alt="stop sell">
-									</div>
-									<p >
-										Stop sell your hotel for a day on one click.
-									</p>
-									<h5 class="social">
-										Stop Sell
-									</h5>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<div class="row">
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/bulk-update.png" class="img-fluid" alt="Bulk Update">
-									</div>
-									<p >
-										Updates rates and inventory on one click and for n number of days.
-									</p>
-									<h5 class="social">
-										Bulk Update
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/reshotel-pay.png" class="img-fluid" alt="reshotel pay">
-									</div>
-									<p >
-										Payment can be done any time and anywhere via our app.
-									</p>
-									<h5 class="social">
-										Pay Reshotel
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/reshotel-dues.png" class="img-fluid" alt="reshotel dues">
-									</div>
-									<p >
-										Get list of upcoming dues and already paid dues.
-									</p>
-									<h5 class="social">
-										Reshotel Dues
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/image-gallery.png" class="img-fluid" alt="image gallery">
-									</div>
-									<p >
-										Update and resequence images of hotel and rooms in image gallery.
-									</p>
-									<h5 class="social">
-										Image Gallery
-									</h5>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<div class="row">
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/manage-channels.png" class="img-fluid" alt="manage channels">
-									</div>
-									<p >
-										Information of boarded, not yet boarded and in-process channels can be seen here.
-									</p>
-									<h5 class="social">
-										Manage Channels
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/website-template.png" class="img-fluid" alt="website template">
-									</div>
-									<p >
-										Option to choose beautiful website from four options is available.
-									</p>
-									<h5 class="social">
-										Website Template
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/walk-in-booking.png" class="img-fluid" alt="walk in booking">
-									</div>
-									<p >
-										Record walk in booking without register. Save pen and paper.
-									</p>
-									<h5 class="social">
-										Walk In Booking
-									</h5>
-								</div>
-							</div>
-							<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-								<div class="team-item">
-									
-									<div class="img">
-										<img src="assets/images/screen-shot/analytics.png" class="img-fluid" alt="analytics">
-									</div>
-									<p >
-										Analyse bookings and predict the future bookings, lenght of stay, revenue,etc.
-									</p>
-									<h5 class="social">
-										Booking Analytics
-									</h5>
-								</div>
-							</div>
-						</div>
+							<p >
+								Get control of your application with dashboard where you'll get all the features.
+							</p>
+							<h5 class="social">
+								Reshotel Dashboard
+							</h5>
+						
 					</div>
 				</div>
-			</div>
-			<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				<span class="sr-only">Previous</span>
-			</a>
-			<a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-				<span class="carousel-control-next-icon" aria-hidden="true"></span>
-				<span class="sr-only">Next</span>
-			</a>
+				<div class="slide">
+					<div class="team-item">
+									
+						<div class="img">
+							<img src="assets/images/screen-shot/rates-inventory.png" class="img-fluid" alt="rates and inventory">
+						</div>
+						<p >
+							Manage and update rates and inventory of rooms easily.
+						</p>
+						<h5 class="social">
+							Rates/Inventory
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">			
+						<div class="img">
+							<img src="assets/images/screen-shot/booking.png" class="img-fluid" alt="booking">
+						</div>
+						<p >
+							List all the bookings with updated status and detailed information.
+						</p>
+						<h5 class="social">
+							Bookings
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">	
+						<div class="img">
+							<img src="assets/images/screen-shot/stop-sell.png" class="img-fluid" alt="stop sell">
+						</div>
+						<p >
+							Stop sell your hotel for a day on one click.
+						</p>
+						<h5 class="social">
+							Stop Sell
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="img">
+							<img src="assets/images/screen-shot/bulk-update.png" class="img-fluid" alt="Bulk Update">
+						</div>
+						<p >
+							Updates rates and inventory on one click and for n number of days.
+						</p>
+						<h5 class="social">
+							Bulk Update
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">			
+						<div class="img">
+							<img src="assets/images/screen-shot/reshotel-pay.png" class="img-fluid" alt="reshotel pay">
+						</div>
+						<p >
+							Payment can be done any time and anywhere via our app.
+						</p>
+						<h5 class="social">
+							Pay Reshotel
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="img">
+							<img src="assets/images/screen-shot/reshotel-dues.png" class="img-fluid" alt="reshotel dues">
+						</div>
+						<p >
+							Get list of upcoming dues and already paid dues.
+						</p>
+						<h5 class="social">
+							Reshotel Dues
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="img">
+							<img src="assets/images/screen-shot/image-gallery.png" class="img-fluid" alt="image gallery">
+						</div>
+						<p >
+							Update and resequence images of hotel and rooms in image gallery.
+						</p>
+						<h5 class="social">
+							Image Gallery
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="img">
+							<img src="assets/images/screen-shot/manage-channels.png" class="img-fluid" alt="manage channels">
+						</div>
+						<p >
+							Information of boarded, not yet boarded and in-process channels can be seen here.
+						</p>
+						<h5 class="social">
+							Manage Channels
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="img">
+							<img src="assets/images/screen-shot/website-template.png" class="img-fluid" alt="website template">
+						</div>
+						<p >
+							Option to choose beautiful website from four options is available.
+						</p>
+						<h5 class="social">
+							Website Template
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">		
+						<div class="img">
+							<img src="assets/images/screen-shot/walk-in-booking.png" class="img-fluid" alt="walk in booking">
+						</div>
+						<p >
+							Record walk in booking without register. Save pen and paper.
+						</p>
+						<h5 class="social">
+							Walk In Booking
+						</h5>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="img">
+							<img src="assets/images/screen-shot/analytics.png" class="img-fluid" alt="analytics">
+						</div>
+						<p >
+							Analyse bookings and predict the future bookings, lenght of stay, revenue,etc.
+						</p>
+						<h5 class="social">
+							Booking Analytics
+						</h5>
+					</div>
+				</div>
+		   </section>
 		</div>
 	</section>
 	<!-- ***** Our Team End ***** -->
@@ -471,8 +434,8 @@
 		</div>
 	</section>
 	<!-- ***** Counter Parallax End ***** -->
-	<!--Testimonial-->
-	<section class="section background pbottom-70">
+		<!--Testimonial-->
+	<section class="section background pbottom-70 testimonial">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -486,8 +449,8 @@
 					</div>					
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+			<section class="customer-Testimonial slider">
+				<div class="slide">
 					<div class="team-item">
 						<div class="header">
 							<div class="img">
@@ -502,7 +465,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+				<div class="slide">
 					<div class="team-item">
 						<div class="header">
 							<div class="img">
@@ -517,7 +480,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+				<div class="slide">
 					<div class="team-item">
 						<div class="header">
 							<div class="img">
@@ -532,7 +495,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+				<div class="slide">
 					<div class="team-item">
 						<div class="header">
 							<div class="img">
@@ -547,11 +510,25 @@
 						</div>
 					</div>
 				</div>
-			</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/1.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>ROYAL KUMBHALGARH VILAS</strong>
+							</div>
+						</div>
+						<div class="body">
+							A complete solution for hotel industry-Reshotel Channel Manager. We are using from last 6 months and we didn't find any problem yet..Highly recommended to hoteliers for managing their rooms on all OTAs.
+						</div>
+					</div>
+				</div>
+		   </section>
 		</div>
 	</section>
 	<!--//Testimonial-->
-	
 
 	<!-- ***** Blog Start ***** -->
 	<section class="section pbottom-70">
@@ -626,9 +603,9 @@
 							<p>Connecting you with maximum number of OTAs</p>
 						</div>
 					   <section class="customer-logos slider">
-						  <div class="slide channel-logo"><img src="assets/images/channel/1.png"></div>
+						  <div class="slide channel-logo"><img src="assets/images/channel/1.png" class="img-fluid"></div>
 						  <div class="slide channel-logo"><img src="assets/images/channel/5.png"></div>
-						  <div class="slide channel-logo"><img src="assets/images/channel/3.png"></div>
+						  <div class="slide channel-logo"><img src="assets/images/channel/3.png" class="img-fluid"></div>
 						  <div class="slide channel-logo"><img src="assets/images/channel/2.png"></div>
 						  <div class="slide channel-logo"><img src="assets/images/channel/4.png"></div>
 						  <div class="slide channel-logo"><img src="assets/images/channel/6.png"></div>
@@ -657,7 +634,7 @@
 				</div>
 			</div>
 			<div class="row" data-scroll-reveal="enter bottom move 30px over 0.6s after 0.2s" >
-				<div class="col-md-3 col-sm-6">
+				<div class=" col-lg-3 col-md-6 col-sm-6">
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
@@ -679,13 +656,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6">
+				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
 					  Quarterly
 					</h3>
-							<span class="price_value"><span class="currency">₹</span><s>3750</s> 3600</s><span style="font-size: 10px;">(including GST)</span></span></span>
+							<span class="price_value"><span class="currency"></span><s>₹3750</s> ₹3600<span style="font-size: 7px;">(including GST)</span></span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
@@ -701,13 +678,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6">
+				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
 					  Half Yearly
 					</h3>
-							<span class="price_value"><span class="currency">₹</span><s>7500</s> 7100<span style="font-size: 10px;">(including GST)</span></span></span>
+							<span class="price_value"><span class="currency"></span><s>₹7500</s> ₹7100<span style="font-size: 7px;">(including GST)</span></span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
@@ -723,13 +700,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6">
+				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="pricetable">
 						<div class="pricetable_header">
 							<h3 class="heading">
 					  Yearly
 					</h3>
-							<span class="price_value"><span class="currency">₹</span><s>15000</s> 12750<span style="font-size: 10px;">(including GST)</span></span></span>
+							<span class="price_value"><span class="currency"></span><s>₹15000</s> ₹12750<span style="font-size: 7px;">(including GST)</span></span></span>
 						</div>
 						<div class="pricecontent">
 							<ul>
