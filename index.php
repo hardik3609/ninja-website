@@ -517,11 +517,41 @@
 								<img src="assets/images/photos/team/1.jpg" alt="">
 							</div>
 							<div class="info">
-								<strong>ROYAL KUMBHALGARH VILAS</strong>
+								<strong>Hotel Executive Comfort</strong>
 							</div>
 						</div>
 						<div class="body">
-							A complete solution for hotel industry-Reshotel Channel Manager. We are using from last 6 months and we didn't find any problem yet..Highly recommended to hoteliers for managing their rooms on all OTAs.
+							It is good.Customer service agents are very professional, have proper knowledge about software.
+						</div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/1.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>Hotel Hanuman Ghat</strong>
+							</div>
+						</div>
+						<div class="body">
+							Everthing is good. Services are very quick. We are able to easily update our bookings from any location.
+						</div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="team-item">
+						<div class="header">
+							<div class="img">
+								<img src="assets/images/photos/team/1.jpg" alt="">
+							</div>
+							<div class="info">
+								<strong>The Girdhar Niwas</strong>
+							</div>
+						</div>
+						<div class="body">
+							I am finding Reshotel Staff quite supportive, vigilant and prompt in doing needful for us. They are worth to be recommended in hotel business.
 						</div>
 					</div>
 				</div>

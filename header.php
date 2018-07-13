@@ -67,7 +67,18 @@
 							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="dark-logo img-responsive" alt="reshotel ICO"/>
 						</a>
 						<!-- ***** Logo End ***** -->
-
+					<div class="top-head">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12 col-sm-12 col-xs-12">
+									<div class="float-right">
+										<ul class="top-nav">
+											<i class="fa fa-phone"><a href="callto:12344">12345</a></i>|<i class="fa fa-phone"><a href="callto:12344">12345</a></i>
+										</ul>
+									</div>
+								</div>
+							</div>
+						
 						<!-- ***** Menu Start ***** -->
 						<ul class="nav">
 							<li><a href="index.php">HOME</a></li>
