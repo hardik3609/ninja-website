@@ -35,7 +35,7 @@
 
 		gtag('config', 'UA-118135390-1');
 	</script>
-	
+	<script type="text/javascript">(function(t,e){var r=function(t){try{var r=e.head||e.getElementsByTagName("head")[0];a=e.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src",t);r.appendChild(a);}catch(t){}};t.CollectId = "5b487da76853811f12210f1e";r("https://collectcdn.com/launcher.js");})(window,document);</script>
 </head>
 <body>
 
