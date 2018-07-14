@@ -114,6 +114,12 @@ html, body {
 
 a {
   text-decoration: none !important;
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+}
+.top-nav {
+	color: #fff;
+	margin-right: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -156,6 +162,9 @@ background-color: #2C6C4B;
 }
 .download-link li{
 	margin-top: 6px;
+}
+.top-head{
+	background-color: #2C6C4B;
 }
 /*---------download link*--------*/
 .modal-backdrop.show {
@@ -919,7 +928,7 @@ header
 
 .header-area.header-sticky {
   background: #fff;
-  height: 80px;
+  height: 100px;
   box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
 }
 
@@ -957,7 +966,7 @@ header
 @media (max-width: 991px) {
   .header-area {
     background: #fff;
-    height: 80px;
+    height: 95px;
     box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
   }
   .header-area .container {
@@ -1372,7 +1381,7 @@ home
   color: #F7F8FF;
 }
 
-.team-item:hover .body {
+.team-item:hover .body, .team-item:hover .body a, .team-item:hover .info h2{
   color: #F7F8FF;
 }
 
@@ -1427,7 +1436,7 @@ home
   transition: all 0.3s ease 0s;
 }
 
-.team-item .body {
+.team-item .body, .team-item .body a {
   font-weight: 400;
   font-size: 14px;
   line-height: 26px;
@@ -1440,7 +1449,10 @@ home
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
-
+.team-item .info h2 {
+	color: #6F8BA4;
+}
+	
 .team-item .social {
     position: absolute;
     right: -150px;

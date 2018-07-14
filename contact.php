@@ -102,7 +102,7 @@ include"header.php";?>
 						</div>
 						<div class="body">
 							Need to find us?No problem.You've come to the right place.<br><a href="mailto:dadheechgarima371@gmail">sales@reshotel.in</a>
-							<br><a href="callto:12345">12345</a>
+							<br><a href="callto:+917727840317">+917727840317</a>
 						</div>
 					</div>
 				</div>
@@ -115,7 +115,7 @@ include"header.php";?>
 						</div>
 						<div class="body">
 							You've got question, we've got answer.We are here to solve your problem.<br><a href="mailto:dadheechgarima371@gmail">hotelsupport@reshotel.in</a>
-							<br><a href="callto:12345">12345</a>
+							<br><a href="callto:+919610498060">+919610498060</a>
 						</div>
 					</div>
 				</div>
@@ -128,7 +128,7 @@ include"header.php";?>
 						</div>
 						<div class="body">
 							Got issue regarding payment?Mail us your query at below address.<br><a href="mailto:dadheechgarima371@gmail">accounts@reshotel.in</a>
-							<br><a href="callto:12345">12345</a>
+							<br><a href="callto:+918619032756">+918619032756</a>
 						</div>
 					</div>
 				</div>

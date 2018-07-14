@@ -56,6 +56,23 @@
 
 	<!-- ***** Header Area Start ***** -->
 	<header class="header-area">
+		<div class="row">
+				<div class="col-lg-12 align-self-center">
+				<div class="top-head">
+						<div class="container">
+							<div class="row">
+								<div class="col-md-12 col-sm-12 col-xs-12 align-self-center">
+									<div class="float-right">
+										<ul class="top-nav">
+											<i class="fa fa-phone"><a href="callto:+917727840317">&nbsp;+917727 840 317</a></i>&nbsp;| &nbsp;<i class="fa fa-phone"><a href="callto:+919610498060">&nbsp;+919610 498 060</a></i>
+										</ul>
+									</div>
+								</div>
+								</div>
+					</div>
+				</div>
+			</div>
+			</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -67,18 +84,7 @@
 							<img src="assets/images/reshotel dark.png" style="width: 177px;" class="dark-logo img-responsive" alt="reshotel ICO"/>
 						</a>
 						<!-- ***** Logo End ***** -->
-					<div class="top-head">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-12 col-sm-12 col-xs-12">
-									<div class="float-right">
-										<ul class="top-nav">
-											<i class="fa fa-phone"><a href="callto:12344">12345</a></i>|<i class="fa fa-phone"><a href="callto:12344">12345</a></i>
-										</ul>
-									</div>
-								</div>
-							</div>
-						
+				
 						<!-- ***** Menu Start ***** -->
 						<ul class="nav">
 							<li><a href="index.php">HOME</a></li>
