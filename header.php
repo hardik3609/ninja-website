@@ -111,8 +111,8 @@
 		<div class="download-link">
 			<ul class="">
 				
-				<li><a href="https://goo.gl/vGL07e"><i class="fa fa-android" aria-hidden="true"></i></a></li>
-				<li><a href="https://goo.gl/Xnm5z7"><i class="fa fa-apple" aria-hidden="true"></i></a></li>
+				<li><a href="https://goo.gl/vGL07e" target="_blank"><i class="fa fa-android" aria-hidden="true"></i></a></li>
+				<li><a href="https://goo.gl/Xnm5z7" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i></a></li>
 			</ul>
 		</div>
 		<!-- ***** Download Link End ***** -->	

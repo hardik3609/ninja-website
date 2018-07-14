@@ -472,7 +472,7 @@
 								<img src="assets/images/photos/team/2.jpg" alt="">
 							</div>
 							<div class="info">
-								<strong>HOTEL BAEA VILLA, GOA</strong>
+								<strong>HOTEL BAGA VILLA, GOA</strong>
 							</div>
 						</div>
 						<div class="body">
@@ -755,7 +755,7 @@
 			</div>
 			<div class="row contact-sales">
 				<div>
-					<a href="callto:1235467" class="btn-white-line">Contact Our Sales Team</a>
+					<a href="callto:+917727 840 317" class="btn-white-line">Call at +917727840317</a>
 				</div>
 			</div>
 		</div>
