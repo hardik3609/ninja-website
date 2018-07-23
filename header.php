@@ -62,6 +62,11 @@
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12 col-sm-12 col-xs-12 align-self-center">
+								<div class="float-left">
+										<ul class="top-nav">
+											<i class="fa fa-envelope"><a href="mailto:hotelsupport@reshotel.in">&nbsp;hotelsupport@reshotel.in</a></i>
+										</ul>
+									</div>
 									<div class="float-right">
 										<ul class="top-nav">
 											<i class="fa fa-phone"><a href="callto:+917727840317">&nbsp;+917727 840 317</a></i>&nbsp;| &nbsp;<i class="fa fa-phone"><a href="callto:+919610498060">&nbsp;+919610 498 060</a></i>
