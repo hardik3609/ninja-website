@@ -132,6 +132,21 @@
 	<script src="assets/js/imgfix.min.js"></script>	
 	<script src="http://maps.google.com/maps/api/js?key=AIzaSyAthC_2x5GtKhiH7rUumkMbwvp31qyFyA8"></script>
 	<script src="assets/js/map-script.js"></script>
+	<!-- <script>
+	console.log("I am here2");
+	
+		$("#find-booking-form").on("click", function(e){
+			$(".find-booking").show();
+		});
+		$("#booking-find-btn").on("click", function(e){
+			console.log("I am here");
+			e.preventDefault();
+			var test1=$("#booking-modal-id").val();
+			var test2=$("#booking-modal-email").val();
+				$('#booking-form').attr('action', "https://www.reshotel.in/bookings/"+test1+"?token=homepage&email="+test2).submit(); // .submit()
+			
+	});
+	</script>-->
 <script>
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 

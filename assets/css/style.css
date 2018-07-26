@@ -140,6 +140,17 @@ ul {
 .tooltip-inner{
 background-color: #2C6C4B;
 }
+
+/*-----login------*/
+ #login-button,#login-button:focus {
+	background-color:transparent;
+	color:white;
+	border: transparent;
+	outline: 0;
+}
+.login-panel {
+	text-align:center
+}
 /*download link*/
 .download-link {
 	float: right;
@@ -431,19 +442,6 @@ global styles
     text-indent: -999px;
     background-color: rgb(146, 146, 146);
 }
-/**.pbottom-70 .team-item p:hover{
-	position: absolute;
-    z-index: 2;
-    top: 103px;
-    display: inline;
-    padding: 27px 15px;
-    overflow: hidden;
-    color: white;
-    font-weight: 600;
-}
-.pbottom-70 .team-item p{
-	display:none;
-}**/
 
 .mtop-70 {
   margin-top: 70px !important;

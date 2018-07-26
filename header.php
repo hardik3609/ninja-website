@@ -39,21 +39,6 @@
 </head>
 <body>
 
-	<!-- ***** Preloader Start 
-	<div class="loader-wrapper">
-		<div class="center load">
-			<div class="dot dot-one"><h1>r</h1></div>
-			<div class="dot dot-two"><h1>e</h1></div>
-			<div class="dot dot-three"><h1>s</h1></div> 
-			<div class="dot dot-four"><h1>h</h1></div>  
-			<div class="dot dot-five"><h1>o</h1></div>
-			<div class="dot dot-six"><h1>t</h1></div>
-			<div class="dot dot-seven"><h1>e</h1></div>
-			<div class="dot dot-eight"><h1>l</h1></div>
-		</div>
-	</div>
-      Preloader End ***** -->
-
 	<!-- ***** Header Area Start ***** -->
 	<header class="header-area">
 		<div class="row">
@@ -70,10 +55,11 @@
 									<div class="float-right">
 										<ul class="top-nav">
 											<i class="fa fa-phone"><a href="callto:+917727840317">&nbsp;+917727 840 317</a></i>&nbsp;| &nbsp;<i class="fa fa-phone"><a href="callto:+919610498060">&nbsp;+919610 498 060</a></i>
+											<button type="button" data-toggle="modal" data-target="#loginModal" id="login-button">Login</button>
 										</ul>
 									</div>
 								</div>
-								</div>
+							</div>
 					</div>
 				</div>
 			</div>
@@ -121,5 +107,40 @@
 			</ul>
 		</div>
 		<!-- ***** Download Link End ***** -->	
+		<!-- Button trigger modal -->
+
+<!-- Modal -->
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="loginModalLabel">Login Screen</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+		<div class="row">
+		<div class="col-sm-6 login-panel">
+			<a href="https://www.reshotel.in/hotel_owner" target="_blank"><img src="assets/images/hotel-logo1.png" width="150px" height="150px"></a>
+			<div class="">
+				Hotel owner can easily login here and manage his hotel
+			</div>
+		</div>
+		<div class="col-sm-6 login-panel">
+			<a href="#bookingModal" id="find-booking-form" data-toggle="collapse"><img src="assets/images/customer-logo1.png" width="150px" height="150px"></a>
+			<div class="">
+			You can modify your booking from the hotel's official website. Thank You.
+			</div>
+		</div>
+		</div>
+		<!--<div class="collapse"id="bookingModal">
+			<p> You can modify your booking from the hotel's official website. Thank You.</p>
+		</div>-->
+		</div>
+      </div>
+    </div>
+  </div>
 	</header>
 	<!-- ***** Header Area End ***** -->
+	
